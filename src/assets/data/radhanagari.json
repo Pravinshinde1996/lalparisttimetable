@@ -1,0 +1,343 @@
+[
+  {
+    "depot": "Latur",
+    "departureTimes": [
+      "08:45"
+    ],
+    "via": [
+      "Kolhapur",
+      "Sangli",
+      "Pandharpur",
+      "Kurduwadi",
+      "Barshi",
+      "Yedshi"
+    ]
+  },
+  {
+    "depot": "Malvan",
+    "departureTimes": [
+      "06:40",
+      "08:00",
+      "14:15",
+      "15:45",
+      "18:15",
+      "19:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mudaltitta",
+    "departureTimes": [
+      "07:30",
+      "11:00",
+      "11:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mumbai via Bhogavati",
+    "departureTimes": [
+      "08:00",
+      "08:30"
+    ],
+    "via": [
+      "Mumbai",
+      "Bhogavati",
+      "Rankala",
+      "Kolhapur",
+      "Swargate",
+      "Panvel",
+      "Vashi",
+      "Sion",
+      "Parel"
+    ]
+  },
+  {
+    "depot": "Mumbai via Mudaltitta",
+    "departureTimes": [
+      "09:00"
+    ],
+    "via": [
+      "Mumbai",
+      "Mudaltitta",
+      "Rankala",
+      "Kolhapur",
+      "Swargate",
+      "Panvel",
+      "Vashi",
+      "Sion",
+      "Parel"
+    ]
+  },
+  {
+    "depot": "Murgud",
+    "departureTimes": [
+      "10:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nipani",
+    "departureTimes": [
+      "06:00",
+      "07:00",
+      "08:00",
+      "08:30",
+      "12:00",
+      "13:00",
+      "13:15",
+      "13:45",
+      "16:00",
+      "17:15",
+      "18:15"
+    ],
+    "via": [
+      "Murgud"
+    ]
+  },
+  {
+    "depot": "Pandharpur",
+    "departureTimes": [
+      "06:00"
+    ],
+    "via": [
+      "Kolhapur",
+      "Sangli"
+    ]
+  },
+  {
+    "depot": "Panjim - Goa",
+    "departureTimes": [
+      "11:30",
+      "12:30",
+      "13:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pune - Shivshahi",
+    "departureTimes": [
+      "09:45",
+      "10:30",
+      "12:30",
+      "19:45"
+    ],
+    "via": [
+      "Shivshahi"
+    ]
+  },
+  {
+    "depot": "Pune via Mudaltitta",
+    "departureTimes": [
+      "06:00",
+      "14:00"
+    ],
+    "via": [
+      "Pune",
+      "Mudaltitta",
+      "Kolhapur",
+      "Karad"
+    ]
+  },
+  {
+    "depot": "Pune via Shiroli",
+    "departureTimes": [
+      "06:45",
+      "15:00"
+    ],
+    "via": [
+      "Pune",
+      "Shiroli",
+      "Gudal",
+      "Bhogavati",
+      "Kolhapur",
+      "Karad"
+    ]
+  },
+  {
+    "depot": "Pune via Tarale",
+    "departureTimes": [
+      "13:00"
+    ],
+    "via": [
+      "Pune",
+      "Tarale",
+      "Bhogavati",
+      "Kolhapur",
+      "Karad"
+    ]
+  },
+  {
+    "depot": "Sangli",
+    "departureTimes": [
+      "12:45",
+      "15:30"
+    ],
+    "via": [
+      "Kolhapur"
+    ]
+  },
+  {
+    "depot": "Sawantwadi",
+    "departureTimes": [
+      "09:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Solapur",
+    "departureTimes": [
+      "11:45"
+    ],
+    "via": [
+      "Kolhapur",
+      "Sangli"
+    ]
+  },
+  {
+    "depot": "Tasgaon",
+    "departureTimes": [
+      "13:30"
+    ],
+    "via": [
+      "Kolhapur",
+      "Sangli"
+    ]
+  },
+  {
+    "depot": "Kolhapur - Bhogavati",
+    "departureTimes": [
+      "19:30"
+    ],
+    "via": [
+      "Shiroli",
+      "Gudal"
+    ]
+  },
+  {
+    "depot": "Kolhapur - Haldi",
+    "departureTimes": [
+      "06:30"
+    ],
+    "via": [
+      "Tarale",
+      "Gudal"
+    ]
+  },
+  {
+    "depot": "Kolhapur",
+    "departureTimes": [
+      "11:15",
+      "14:30",
+      "18:15",
+      "19:00"
+    ],
+    "via": [
+      "Gaibi",
+      "Bhogavati"
+    ]
+  },
+  {
+    "depot": "Rankala - Kolhapur",
+    "departureTimes": [
+      "06:30",
+      "08:15",
+      "09:45",
+      "13:15",
+      "17:15"
+    ],
+    "via": [
+      "Shirgaon",
+      "Rashivade",
+      "Parite"
+    ]
+  },
+  {
+    "depot": "Banda",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Barshi",
+    "departureTimes": [
+      "08:15"
+    ],
+    "via": [
+      "Kolhapur",
+      "Sangli",
+      "Pandharpur",
+      "Kurduwadi",
+      "Barshi",
+      "Yedshi"
+    ]
+  },
+  {
+    "depot": "Bhittamwadi",
+    "departureTimes": [
+      "08:15",
+      "18:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chakreshwarwadi",
+    "departureTimes": [
+      "19:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Gargoti",
+    "departureTimes": [
+      "09:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ichalkaranji",
+    "departureTimes": [
+      "12:00"
+    ],
+    "via": [
+      "Shiroli",
+      "Gudal"
+    ]
+  },
+  {
+    "depot": "Kalammawadi",
+    "departureTimes": [
+      "10:00",
+      "11:45",
+      "17:15",
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kankavali",
+    "departureTimes": [
+      "21:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Karivade",
+    "departureTimes": [
+      "09:00",
+      "15:30",
+      "10:00",
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kudal",
+    "departureTimes": [
+      "14:00",
+      "17:00"
+    ],
+    "via": []
+  }
+]

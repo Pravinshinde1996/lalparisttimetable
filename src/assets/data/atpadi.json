@@ -1,0 +1,265 @@
+[
+  {
+    "depot": "Mumbai Central",
+    "departureTimes": [
+      "06:30",
+      "17:30"
+    ],
+    "via": [
+      "Khanapur",
+      "Vita",
+      "Swargate",
+      "Panvel",
+      "Dadar",
+      "Parel"
+    ]
+  },
+  {
+    "depot": "Chatrapati Sambhaji Nagar (Aurangabad)",
+    "departureTimes": [
+      "08:15"
+    ],
+    "via": [
+      "Chatrapati Sambhaji Nagar Aurangabad",
+      "Dighanchi",
+      "Pandhapur",
+      "Kurduwadi",
+      "Barshi",
+      "Beed",
+      "Gevrai"
+    ]
+  },
+  {
+    "depot": "Hyderabad",
+    "departureTimes": [
+      "20:00"
+    ],
+    "via": [
+      "Pandharpur",
+      "Solapur",
+      "Umerga",
+      "Zahirabad"
+    ]
+  },
+  {
+    "depot": "Latur",
+    "departureTimes": [
+      "06:30"
+    ],
+    "via": [
+      "Pandharpur",
+      "Solapur",
+      "Tujapur"
+    ]
+  },
+  {
+    "depot": "Pune (Chinchwad)",
+    "departureTimes": [
+      "07:30",
+      "07:45",
+      "13:00"
+    ],
+    "via": [
+      "Pune Chinchwad",
+      "Khanapur",
+      "Vita",
+      "Karad",
+      "Satara"
+    ]
+  },
+  {
+    "depot": "Kolhapur",
+    "departureTimes": [
+      "06:30",
+      "08:30",
+      "10:30",
+      "11:30",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sangli",
+    "departureTimes": [
+      "07:00",
+      "07:15",
+      "07:30",
+      "08:00",
+      "09:00",
+      "09:30",
+      "11:00",
+      "12:30",
+      "13:30",
+      "15:00",
+      "15:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pandharpur",
+    "departureTimes": [
+      "16:30",
+      "17:30",
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ichalkaranji",
+    "departureTimes": [
+      "08:15",
+      "10:00",
+      "12:00",
+      "14:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Solapur",
+    "departureTimes": [
+      "07:00",
+      "07:45",
+      "13:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Satara",
+    "departureTimes": [
+      "07:30",
+      "08:30",
+      "08:00",
+      "13:20"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Baramati",
+    "departureTimes": [
+      "08:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Karad",
+    "departureTimes": [
+      "07:00",
+      "07:20",
+      "08:30",
+      "11:30",
+      "13:45",
+      "14:00",
+      "14:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pune (Swargate)",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": [
+      "Pune Swargate"
+    ]
+  },
+  {
+    "depot": "Patrewadi",
+    "departureTimes": [
+      "07:45",
+      "14:00",
+      "17:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sangola",
+    "departureTimes": [
+      "07:30",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "18:10"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Rajewadi",
+    "departureTimes": [
+      "07:00",
+      "10:00",
+      "11:30",
+      "12:30",
+      "14:40",
+      "17:15",
+      "19:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kharsundi",
+    "departureTimes": [
+      "07:00",
+      "10:00",
+      "12:30",
+      "14:40"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Padalkarwadi",
+    "departureTimes": [
+      "18:30",
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mhaswad",
+    "departureTimes": [
+      "10:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Junoni",
+    "departureTimes": [
+      "07:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vibhutwadi",
+    "departureTimes": [
+      "11:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kola",
+    "departureTimes": [
+      "19:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vita",
+    "departureTimes": [
+      "08:00",
+      "11:30",
+      "14:00",
+      "15:30",
+      "19:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Zhare",
+    "departureTimes": [
+      "08:30",
+      "15:30"
+    ],
+    "via": []
+  }
+]

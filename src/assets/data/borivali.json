@@ -1,0 +1,950 @@
+[
+  {
+    "depot": "Alibag",
+    "departureTimes": [
+      "05:15"
+    ],
+    "via": [
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Ambajogai",
+    "departureTimes": [
+      "17:00"
+    ],
+    "via": [
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Arnala - Kolhapur",
+    "departureTimes": [
+      "06:45",
+      "18:45"
+    ],
+    "via": [
+      "Kurla Nehru Nagar",
+      "Wakad",
+      "Satara",
+      "Umbraj",
+      "Karad",
+      "Peth Naka",
+      "Wathar"
+    ]
+  },
+  {
+    "depot": "Banda - Sawantwadi",
+    "departureTimes": [
+      "19:30"
+    ],
+    "via": [
+      "Kurla Nehru Nahar",
+      "Rajapur",
+      "Kharepatan",
+      "Kankavali",
+      "Oros",
+      "Kudal",
+      "Sawantwadi",
+      "Sleeper"
+    ]
+  },
+  {
+    "depot": "Barshi",
+    "departureTimes": [
+      "05:00",
+      "06:00"
+    ],
+    "via": [
+      "Sion",
+      "Kurla Nehru Nagar",
+      "Swargate Pune",
+      "Tembhurni",
+      "Kruduwadi",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Bhira",
+    "departureTimes": [
+      "14:00"
+    ],
+    "via": [
+      "Thane CBS",
+      "Panvel",
+      "Pali",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Bhiwandi",
+    "departureTimes": [
+      "07:00",
+      "09:00",
+      "11:00",
+      "13:00",
+      "15:00",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bhoom",
+    "departureTimes": [
+      "05:45"
+    ],
+    "via": [
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Bhoom via Malshej Ghat",
+    "departureTimes": [
+      "06:15",
+      "21:30"
+    ],
+    "via": [
+      "Bhoom",
+      "Malshej Ghat"
+    ]
+  },
+  {
+    "depot": "Bhor",
+    "departureTimes": [
+      "05:45",
+      "06:45"
+    ],
+    "via": [
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Swargate Pune",
+      "Hirkani"
+    ]
+  },
+  {
+    "depot": "Bhorgiri",
+    "departureTimes": [
+      "07:00"
+    ],
+    "via": [
+      "Thane CBS",
+      "Panvel",
+      "Khopoli",
+      "Lonavala",
+      "Talegaon",
+      "Chakan",
+      "Rajgurunagar",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Borthal",
+    "departureTimes": [
+      "06:15",
+      "21:30"
+    ],
+    "via": [
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Ambet",
+      "Mandangad",
+      "Uttambar",
+      "Ade Fata",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Chatrapati Sambhaji Nagar (Aurangabad)",
+    "departureTimes": [
+      "17:30"
+    ],
+    "via": [
+      "Chatrapati Sambhaji Nagar Aurangabad",
+      "Thane Vandana",
+      "Nashik",
+      "Shivshahi AC"
+    ]
+  },
+  {
+    "depot": "Chiplun",
+    "departureTimes": [
+      "07:00"
+    ],
+    "via": [
+      "Sion",
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Indapur",
+      "Mangaon",
+      "Mahad",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Dapoli",
+    "departureTimes": [
+      "05:45",
+      "06:30",
+      "07:00",
+      "20:15",
+      "21:00",
+      "21:45",
+      "23:00"
+    ],
+    "via": [
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Mandangad",
+      "Latwan Fata",
+      "Matvan Fata"
+    ]
+  },
+  {
+    "depot": "Dharashiv - Osmanabad",
+    "departureTimes": [
+      "06:15",
+      "18:00"
+    ],
+    "via": [
+      "Swargate Pune"
+    ]
+  },
+  {
+    "depot": "Ghotwadi via Andheri, Ghatkopar",
+    "departureTimes": [
+      "06:30"
+    ],
+    "via": [
+      "Ghotwadi",
+      "Andheri",
+      "Ghatkopar"
+    ]
+  },
+  {
+    "depot": "Guhagar",
+    "departureTimes": [
+      "06:45",
+      "19:45",
+      "20:30"
+    ],
+    "via": [
+      "Sion",
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Indapur",
+      "Mangaon",
+      "Mahad",
+      "Chiplun",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Jakadevi via Ratnagiri",
+    "departureTimes": [
+      "20:30"
+    ],
+    "via": [
+      "Jakadevi",
+      "Ratnagiri",
+      "Sion",
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Indapur",
+      "Mangaon",
+      "Mahad",
+      "Chiplun",
+      "Sangameshwar",
+      "Hatkhamba",
+      "Pawas",
+      "Purnagad",
+      "Kasheli",
+      "Adivare",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Jamkhed via Malshej Ghat",
+    "departureTimes": [
+      "05:30"
+    ],
+    "via": [
+      "Jamkhed",
+      "Malshej Ghat"
+    ]
+  },
+  {
+    "depot": "Kalamb",
+    "departureTimes": [
+      "17:30"
+    ],
+    "via": [
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Karad Via Sion",
+    "departureTimes": [
+      "08:30",
+      "22:00",
+      "23:00"
+    ],
+    "via": [
+      "Karad Via Sion",
+      "Sion",
+      "Shivshahi"
+    ]
+  },
+  {
+    "depot": "Khed",
+    "departureTimes": [
+      "05:00",
+      "20:45"
+    ],
+    "via": [
+      "Sion",
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Indapur",
+      "Mangaon",
+      "Mahad",
+      "Shivshahi AC"
+    ]
+  },
+  {
+    "depot": "Khed via Tulshi",
+    "departureTimes": [
+      "22:30"
+    ],
+    "via": [
+      "Khed",
+      "Tulshi",
+      "Sion",
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Indapur",
+      "Mangaon",
+      "Mahad",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Lanja",
+    "departureTimes": [
+      "18:00"
+    ],
+    "via": [
+      "Seater Sleeper"
+    ]
+  },
+  {
+    "depot": "Mahabaleshwar",
+    "departureTimes": [
+      "21:30"
+    ],
+    "via": [
+      "Seater Sleeper"
+    ]
+  },
+  {
+    "depot": "Mahabaleshwar via Mahad",
+    "departureTimes": [
+      "07:00",
+      "22:30"
+    ],
+    "via": [
+      "Mahabaleshwar",
+      "Mahad",
+      "Panvel",
+      "Indapur",
+      "Mangaon",
+      "Poladpur",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Mahabaleshwar via Swargate",
+    "departureTimes": [
+      "06:30"
+    ],
+    "via": [
+      "Mahabaleshwar",
+      "Swargate",
+      "Sion",
+      "Kurla Nehru Nagar",
+      "Wai",
+      "Pachgani",
+      "Venna Lake",
+      "Seater Sleeper"
+    ]
+  },
+  {
+    "depot": "Mahad",
+    "departureTimes": [
+      "04:30",
+      "04:45",
+      "05:00",
+      "05:15",
+      "06:00",
+      "06:30",
+      "07:00",
+      "12:30",
+      "14:00",
+      "14:45",
+      "16:00"
+    ],
+    "via": [
+      "Sion",
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Indapur",
+      "Mangaon"
+    ]
+  },
+  {
+    "depot": "Manchar via Chakan",
+    "departureTimes": [
+      "06:00"
+    ],
+    "via": [
+      "Manchar",
+      "Chakan",
+      "Thane CBS",
+      "Panvel",
+      "Khopoli",
+      "Lonavala",
+      "Talegaon",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Mandwa Bandar",
+    "departureTimes": [
+      "05:45"
+    ],
+    "via": [
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Mangalwedha",
+    "departureTimes": [
+      "05:30",
+      "17:30"
+    ],
+    "via": [
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Swargate Pune",
+      "Saswad",
+      "Jejuri",
+      "Phaltan",
+      "Natepute",
+      "Malshiras",
+      "Pandharpur",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Matwan Dapoli",
+    "departureTimes": [
+      "21:30"
+    ],
+    "via": [
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Miraj",
+    "departureTimes": [
+      "06:45",
+      "21:30"
+    ],
+    "via": [
+      "Thane Vandana",
+      "Nerul",
+      "Panvel",
+      "Karad",
+      "Islampur",
+      "Sangli"
+    ]
+  },
+  {
+    "depot": "Mogarewadi",
+    "departureTimes": [
+      "21:00"
+    ],
+    "via": [
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Murud",
+    "departureTimes": [
+      "04:30",
+      "05:00",
+      "06:00",
+      "06:30"
+    ],
+    "via": [
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Alibag",
+      "Akshi",
+      "Nagav",
+      "Bagmala",
+      "Chowl",
+      "Ravdanda",
+      "Kashid",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Nashik (Electric AC Shivai) via Samruddhi Mahamarg",
+    "departureTimes": [
+      "05:00",
+      "07:00",
+      "08:00",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:30",
+      "13:30",
+      "14:30",
+      "15:30",
+      "17:00"
+    ],
+    "via": [
+      "Nashik Electric AC Shivai",
+      "Samruddhi Mahamarg",
+      "Electric AC Bus"
+    ]
+  },
+  {
+    "depot": "Nate via Ratnagiri",
+    "departureTimes": [
+      "19:00"
+    ],
+    "via": [
+      "Nate",
+      "Ratnagiri",
+      "Sion",
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Indapur",
+      "Mangaon",
+      "Mahad",
+      "Chiplun",
+      "Sangameshwar",
+      "Hatkhamba",
+      "Pawas",
+      "Purnagad",
+      "Kasheli",
+      "Adivare"
+    ]
+  },
+  {
+    "depot": "Navapur",
+    "departureTimes": [
+      "07:15"
+    ],
+    "via": [
+      "Bhiwandi",
+      "Shahapur",
+      "Nahsik",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Paithan via Malshej Ghat",
+    "departureTimes": [
+      "07:00"
+    ],
+    "via": [
+      "Paithan",
+      "Malshej Ghat"
+    ]
+  },
+  {
+    "depot": "Parli",
+    "departureTimes": [
+      "18:30"
+    ],
+    "via": [
+      "Seater Sleeper"
+    ]
+  },
+  {
+    "depot": "Patan",
+    "departureTimes": [
+      "06:00",
+      "09:00"
+    ],
+    "via": [
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Umbraj",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Phaltan Via Sion",
+    "departureTimes": [
+      "06:15",
+      "07:30",
+      "08:30",
+      "09:30",
+      "10:30"
+    ],
+    "via": [
+      "Phaltan Via Sion",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Pune Railway Station",
+    "departureTimes": [
+      "10:30"
+    ],
+    "via": [
+      "Shivshahi AC"
+    ]
+  },
+  {
+    "depot": "Rajapur",
+    "departureTimes": [
+      "17:00"
+    ],
+    "via": [
+      "Seater Sleeper"
+    ]
+  },
+  {
+    "depot": "Ratnagiri",
+    "departureTimes": [
+      "05:30",
+      "19:30"
+    ],
+    "via": [
+      "Sion",
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Indapur",
+      "Mangaon",
+      "Mahad",
+      "Chiplun",
+      "Sangameshwar",
+      "Hatkhamba",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Revdanda via Alibag",
+    "departureTimes": [
+      "15:00"
+    ],
+    "via": [
+      "Revdanda",
+      "Alibag",
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Akshi",
+      "Nagav",
+      "Bagmala",
+      "Chowl",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Roha",
+    "departureTimes": [
+      "05:30"
+    ],
+    "via": [
+      "Kurla Nehru Nahar",
+      "Panvel",
+      "Alibag",
+      "Sudkoli"
+    ]
+  },
+  {
+    "depot": "Sakharapa",
+    "departureTimes": [
+      "06:00",
+      "20:30"
+    ],
+    "via": [
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Sawarde",
+      "Sangameshwar",
+      "Marleshwar Darshan Stop",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Sandoshi via Mahad",
+    "departureTimes": [
+      "22:00"
+    ],
+    "via": [
+      "Sandoshi",
+      "Mahad",
+      "Sion",
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Indapur",
+      "Mangaon",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Saswad",
+    "departureTimes": [
+      "06:00",
+      "23:30"
+    ],
+    "via": [
+      "Panvel",
+      "Swargate Pune"
+    ]
+  },
+  {
+    "depot": "Satara Via Sion",
+    "departureTimes": [
+      "05:00",
+      "07:30",
+      "09:30",
+      "11:30",
+      "14:00",
+      "15:30",
+      "22:30",
+      "23:00",
+      "23:30"
+    ],
+    "via": [
+      "Satara Via Sion",
+      "Sion",
+      "Kurla Nehru Naget",
+      "Shirval",
+      "Bhuinj",
+      "Pachwad",
+      "Shivshahi"
+    ]
+  },
+  {
+    "depot": "Satara Via Thane",
+    "departureTimes": [
+      "05:30",
+      "06:30",
+      "07:45",
+      "08:30",
+      "13:00",
+      "18:30",
+      "23:45"
+    ],
+    "via": [
+      "Satara Via Thane",
+      "Thane Vandana",
+      "Shirval",
+      "Bhuinj",
+      "Pachwad",
+      "Shivshahi"
+    ]
+  },
+  {
+    "depot": "Shindkheda",
+    "departureTimes": [
+      "05:45"
+    ],
+    "via": [
+      "Bhiwandi",
+      "Shahapur",
+      "Nahsik",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Shirala",
+    "departureTimes": [
+      "06:30",
+      "18:30"
+    ],
+    "via": [
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Karad",
+      "Kasegaon",
+      "Islampur",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Shirdi",
+    "departureTimes": [
+      "07:15"
+    ],
+    "via": [
+      "Shahapur",
+      "Nahsik",
+      "Sinnar",
+      "Vavi",
+      "Shivshahi AC"
+    ]
+  },
+  {
+    "depot": "Shrivardhan",
+    "departureTimes": [
+      "04:45",
+      "06:00"
+    ],
+    "via": [
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Sai",
+      "Devghar",
+      "Mhasala",
+      "Jambhul Bodhani Fata",
+      "Seater Sleeper"
+    ]
+  },
+  {
+    "depot": "Swargate (Pune)",
+    "departureTimes": [
+      "05:15",
+      "06:00",
+      "07:00",
+      "08:00",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00"
+    ],
+    "via": [
+      "Swargate Pune",
+      "Sion",
+      "Vashi Highway",
+      "Nerul",
+      "Kharghar",
+      "Chandani Chowk",
+      "Vanaj",
+      "Semi Luxury"
+    ]
+  },
+  {
+    "depot": "Tala via Roha",
+    "departureTimes": [
+      "05:30"
+    ],
+    "via": [
+      "Tala",
+      "Roha",
+      "Kurla Nehru Nahar",
+      "Panvel",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Thane - All Stop",
+    "departureTimes": [],
+    "via": [
+      "Kashimira",
+      "Ghodbunder",
+      "Gaimukh",
+      "Kasarwadavali",
+      "Patalipada",
+      "Waghbil",
+      "Manpada",
+      "Kapurbawdi",
+      "Majiwada",
+      "Castle Mill",
+      "Court Naka",
+      "Jambhali Naka"
+    ]
+  },
+  {
+    "depot": "Thane (Shivshahi AC Non Stop)",
+    "departureTimes": [
+      "07:00",
+      "20:00"
+    ],
+    "via": [
+      "Thane Shivshahi AC Non Stop",
+      "Kapurbawdi",
+      "Castle Mill",
+      "Jambhali Naka"
+    ]
+  },
+  {
+    "depot": "Udgir",
+    "departureTimes": [
+      "15:30"
+    ],
+    "via": [
+      "Thane Vandana",
+      "Panvel",
+      "Swargate",
+      "Indapur",
+      "Kurduwadi",
+      "Barshi",
+      "Latur"
+    ]
+  },
+  {
+    "depot": "Umbarde (Jite)",
+    "departureTimes": [
+      "00:15"
+    ],
+    "via": [
+      "Umbarde Jite",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Umerga / Omerga",
+    "departureTimes": [
+      "17:30",
+      "20:00"
+    ],
+    "via": [
+      "Kurla Nehru Nagar",
+      "Swargate Pune",
+      "Indapur",
+      "Mohol",
+      "Solapur",
+      "Jalkot",
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Virsai Dapoli",
+    "departureTimes": [
+      "07:00"
+    ],
+    "via": [
+      "Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Vita",
+    "departureTimes": [
+      "05:30",
+      "07:15"
+    ],
+    "via": [
+      "Kurla Nehru Nagar",
+      "Panvel",
+      "Wakad",
+      "Umbraj",
+      "Karad",
+      "Kadegaon",
+      "Kadepur",
+      "Sadhi Bus"
+    ]
+  }
+]

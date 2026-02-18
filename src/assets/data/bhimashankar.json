@@ -1,0 +1,59 @@
+[
+  {
+    "depot": "Pune (Shivajinagar Wakdewadi)",
+    "departureTimes": [
+      "06:30",
+      "08:00",
+      "08:30",
+      "09:00",
+      "09:30",
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:00",
+      "18:00"
+    ],
+    "via": [
+      "Pune Shivajinagar Wakdewadi",
+      "Manchar",
+      "Rajgurunagar",
+      "Chakan"
+    ]
+  },
+  {
+    "depot": "Kurla (Mumbai)",
+    "departureTimes": [
+      "07:00",
+      "10:30",
+      "15:00"
+    ],
+    "via": [
+      "Kurla Mumbai",
+      "Lonavala",
+      "Panvel"
+    ]
+  },
+  {
+    "depot": "Kalyan",
+    "departureTimes": [
+      "07:30"
+    ],
+    "via": [
+      "Malshej",
+      "Murbad"
+    ]
+  },
+  {
+    "depot": "Rajgurunagar",
+    "departureTimes": [
+      "10:30"
+    ],
+    "via": [
+      "Wada"
+    ]
+  }
+]

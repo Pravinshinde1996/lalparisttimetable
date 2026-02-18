@@ -1,0 +1,558 @@
+[
+  {
+    "depot": "Pune via Ahmednagar",
+    "departureTimes": [
+      "00:15",
+      "01:15",
+      "05:00",
+      "07:00",
+      "07:45",
+      "08:30",
+      "08:30",
+      "10:00",
+      "10:15",
+      "10:30",
+      "10:35",
+      "11:00",
+      "11:30",
+      "12:30",
+      "12:30",
+      "12:35",
+      "12:45",
+      "13:15",
+      "14:30",
+      "14:30",
+      "17:20",
+      "21:20",
+      "21:45",
+      "22:15",
+      "22:45",
+      "23:45"
+    ],
+    "via": [
+      "Pune",
+      "Ahmednagar"
+    ]
+  },
+  {
+    "depot": "Pune via Sangamner",
+    "departureTimes": [
+      "05:20",
+      "07:45",
+      "08:45",
+      "09:15",
+      "09:45",
+      "10:45",
+      "11:45",
+      "14:45",
+      "15:45"
+    ],
+    "via": [
+      "Pune",
+      "Sangamner"
+    ]
+  },
+  {
+    "depot": "Ahmednagar",
+    "departureTimes": [
+      "06:00",
+      "07:15",
+      "07:30",
+      "07:50",
+      "08:00",
+      "08:45",
+      "09:30",
+      "10:45",
+      "12:30",
+      "13:00",
+      "13:15",
+      "14:30",
+      "15:30",
+      "18:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shirdi",
+    "departureTimes": [
+      "11:00",
+      "12:30",
+      "14:30",
+      "15:00",
+      "16:00",
+      "16:30",
+      "16:45",
+      "17:00",
+      "18:30",
+      "20:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dhule",
+    "departureTimes": [
+      "03:00",
+      "04:15",
+      "09:00",
+      "09:30",
+      "12:30",
+      "12:30",
+      "13:00",
+      "13:15",
+      "14:15",
+      "15:15",
+      "15:30",
+      "15:45",
+      "16:45",
+      "17:00",
+      "17:15",
+      "17:30",
+      "17:45",
+      "18:00",
+      "18:15",
+      "19:45",
+      "20:45",
+      "21:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Akkalkot",
+    "departureTimes": [
+      "08:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Akkalkuwa",
+    "departureTimes": [
+      "14:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Amalner",
+    "departureTimes": [
+      "07:30",
+      "08:45",
+      "11:45",
+      "14:05"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Baramati",
+    "departureTimes": [
+      "11:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bolthan",
+    "departureTimes": [
+      "15:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Burhanpur",
+    "departureTimes": [
+      "08:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bhusawal",
+    "departureTimes": [
+      "06:45",
+      "07:15",
+      "09:00",
+      "15:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chalisgaon",
+    "departureTimes": [
+      "07:15",
+      "08:15",
+      "08:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chandwad",
+    "departureTimes": [
+      "05:30",
+      "09:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chandwad via Usvad",
+    "departureTimes": [
+      "05:30",
+      "09:45"
+    ],
+    "via": [
+      "Chandwad",
+      "Usvad"
+    ]
+  },
+  {
+    "depot": "Chopda",
+    "departureTimes": [
+      "01:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kalwan",
+    "departureTimes": [
+      "15:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kondhar via Nandgaon",
+    "departureTimes": [
+      "09:00",
+      "14:00"
+    ],
+    "via": [
+      "Kondhar",
+      "Nandgaon"
+    ]
+  },
+  {
+    "depot": "Lasalgaon",
+    "departureTimes": [
+      "06:15",
+      "07:30",
+      "08:15",
+      "10:15",
+      "11:30",
+      "12:30",
+      "14:15",
+      "15:30",
+      "16:00",
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Malegaon",
+    "departureTimes": [
+      "09:00",
+      "09:45",
+      "11:00",
+      "13:30",
+      "15:00",
+      "16:00",
+      "16:15",
+      "18:30",
+      "19:15",
+      "20:00",
+      "23:15",
+      "23:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nandgaon",
+    "departureTimes": [
+      "08:00",
+      "10:20",
+      "11:15",
+      "12:30",
+      "13:00",
+      "13:30",
+      "14:00",
+      "15:00",
+      "16:15",
+      "17:15",
+      "17:45",
+      "18:00",
+      "18:15",
+      "19:00",
+      "19:45",
+      "20:30",
+      "22:00",
+      "23:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nandurbar",
+    "departureTimes": [
+      "02:45",
+      "06:00",
+      "09:30",
+      "13:00",
+      "17:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nashik",
+    "departureTimes": [
+      "06:00",
+      "07:15",
+      "07:45",
+      "08:00",
+      "08:20",
+      "09:00",
+      "09:30",
+      "09:35",
+      "10:00",
+      "10:20",
+      "10:50",
+      "11:45",
+      "12:00",
+      "12:15",
+      "13:00",
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:45",
+      "16:45",
+      "18:00",
+      "18:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pachora",
+    "departureTimes": [
+      "11:45",
+      "13:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pandharpur",
+    "departureTimes": [
+      "09:30",
+      "09:40",
+      "21:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sangamner",
+    "departureTimes": [
+      "06:30",
+      "14:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Saptashrungi Gad - Vani",
+    "departureTimes": [
+      "07:00",
+      "09:00",
+      "13:30",
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Satana",
+    "departureTimes": [
+      "10:15",
+      "15:30",
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shahada",
+    "departureTimes": [
+      "03:30",
+      "14:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shevgaon",
+    "departureTimes": [
+      "14:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shegaon",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shindkheda",
+    "departureTimes": [
+      "13:30",
+      "14:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shirpur",
+    "departureTimes": [
+      "03:15",
+      "10:45",
+      "15:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shrirampur",
+    "departureTimes": [
+      "14:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Solapur",
+    "departureTimes": [
+      "09:00",
+      "20:20"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Surat via Chandwad",
+    "departureTimes": [
+      "08:00",
+      "12:30"
+    ],
+    "via": [
+      "Surat",
+      "Chandwad"
+    ]
+  },
+  {
+    "depot": "Surat via Malegaon",
+    "departureTimes": [
+      "10:45",
+      "19:00"
+    ],
+    "via": [
+      "Surat",
+      "Malegaon"
+    ]
+  },
+  {
+    "depot": "Talegaon via Lasalgaon",
+    "departureTimes": [
+      "06:15"
+    ],
+    "via": [
+      "Talegaon",
+      "Lasalgaon"
+    ]
+  },
+  {
+    "depot": "Yeola",
+    "departureTimes": [
+      "11:00",
+      "12:00",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Yeola via Patoda",
+    "departureTimes": [
+      "08:15"
+    ],
+    "via": [
+      "Yeola",
+      "Patoda"
+    ]
+  },
+  {
+    "depot": "Chondi Jalgaon",
+    "departureTimes": [
+      "06:00",
+      "11:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Hatti",
+    "departureTimes": [
+      "14:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Jeur",
+    "departureTimes": [
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kondhar",
+    "departureTimes": [
+      "08:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mesankhede Dugaon",
+    "departureTimes": [
+      "09:45",
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nandur",
+    "departureTimes": [
+      "09:45",
+      "19:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Narayangaon via Vanjarwadi",
+    "departureTimes": [
+      "09:30",
+      "17:00"
+    ],
+    "via": [
+      "Narayangaon",
+      "Vanjarwadi"
+    ]
+  },
+  {
+    "depot": "Rajapur",
+    "departureTimes": [
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Umrane",
+    "departureTimes": [
+      "09:45",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vad",
+    "departureTimes": [
+      "08:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vadner",
+    "departureTimes": [
+      "13:00"
+    ],
+    "via": []
+  }
+]

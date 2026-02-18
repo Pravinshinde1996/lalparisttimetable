@@ -1,0 +1,268 @@
+[
+  {
+    "depot": "Chatrapati Sambhaji Nagar (Aurangabad)",
+    "departureTimes": [
+      "07:00",
+      "08:00",
+      "09:00"
+    ],
+    "via": [
+      "Chatrapati Sambhaji Nagar Aurangabad",
+      "Kasa",
+      "Jawhar",
+      "Mokhada",
+      "Trimbakeshwar",
+      "Satpur",
+      "Nashik Mahamarg",
+      "Sinnar",
+      "Shirdi"
+    ]
+  },
+  {
+    "depot": "Chopda",
+    "departureTimes": [
+      "07:30"
+    ],
+    "via": [
+      "Kasa",
+      "Jawhar",
+      "Mokhada",
+      "Trimbakeshwar",
+      "Satpur",
+      "Nashik",
+      "Malegaon",
+      "Dhule",
+      "Amalner"
+    ]
+  },
+  {
+    "depot": "Dhule",
+    "departureTimes": [
+      "12:00"
+    ],
+    "via": [
+      "Kasa",
+      "Jawhar",
+      "Mokhada",
+      "Trimbakeshwar",
+      "Satpur",
+      "Nashik",
+      "Malegaon"
+    ]
+  },
+  {
+    "depot": "Jalgaon",
+    "departureTimes": [
+      "06:45"
+    ],
+    "via": [
+      "Kasa",
+      "Jawhar",
+      "Mokhada",
+      "Trimbakeshwar",
+      "Satpur",
+      "Nashik",
+      "Malegaon",
+      "Dhule"
+    ]
+  },
+  {
+    "depot": "Jalna",
+    "departureTimes": [
+      "06:30"
+    ],
+    "via": [
+      "Kasa",
+      "Jawhar",
+      "Mokhada",
+      "Trimbakeshwar",
+      "Satpur",
+      "Nashik Mahamarg",
+      "Sinnar",
+      "Shirdi",
+      "Chatrapati Sambhaji Nagar Aurangabad"
+    ]
+  },
+  {
+    "depot": "Kolhapur",
+    "departureTimes": [
+      "06:45"
+    ],
+    "via": [
+      "Kasa",
+      "Vikramgad",
+      "Wada",
+      "Bhiwandi",
+      "Thane Vandana",
+      "Swargate Pune",
+      "Satara",
+      "Karad"
+    ]
+  },
+  {
+    "depot": "Murbad",
+    "departureTimes": [
+      "13:00",
+      "15:00"
+    ],
+    "via": [
+      "Jawhar",
+      "Wada",
+      "Bhiwandi",
+      "Kalyan"
+    ]
+  },
+  {
+    "depot": "Nashik",
+    "departureTimes": [
+      "12:00",
+      "14:30"
+    ],
+    "via": [
+      "Kasa",
+      "Jawhar",
+      "Mokhada",
+      "Trimbakeshwar",
+      "Satpur"
+    ]
+  },
+  {
+    "depot": "Satara",
+    "departureTimes": [
+      "06:45",
+      "07:00"
+    ],
+    "via": [
+      "Wada",
+      "Bhiwandi",
+      "Thane"
+    ]
+  },
+  {
+    "depot": "Shahada",
+    "departureTimes": [
+      "06:15"
+    ],
+    "via": [
+      "Kasa",
+      "Jawhar",
+      "Mokhada",
+      "Trimbakeshwar",
+      "Satpur",
+      "Nashik",
+      "Malegaon",
+      "Dhule",
+      "Dondaicha"
+    ]
+  },
+  {
+    "depot": "Thane",
+    "departureTimes": [
+      "08:00",
+      "11:30",
+      "14:00",
+      "17:00"
+    ],
+    "via": [
+      "Majiwada"
+    ]
+  },
+  {
+    "depot": "Bordi via Chikhala",
+    "departureTimes": [
+      "05:30",
+      "06:10",
+      "08:30",
+      "08:40",
+      "09:15",
+      "10:00",
+      "10:30",
+      "15:45",
+      "17:40",
+      "18:30",
+      "19:10"
+    ],
+    "via": [
+      "Bordi",
+      "Chikhala"
+    ]
+  },
+  {
+    "depot": "Dabhadi",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Karajgaon / Umargaon",
+    "departureTimes": [
+      "12:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kirmira",
+    "departureTimes": [
+      "12:30",
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Talasari",
+    "departureTimes": [
+      "06:00",
+      "07:00",
+      "08:30",
+      "10:15",
+      "12:15",
+      "13:00",
+      "13:30",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:45",
+      "18:30"
+    ],
+    "via": [
+      "Ambesari"
+    ]
+  },
+  {
+    "depot": "Tarapur",
+    "departureTimes": [
+      "11:00",
+      "12:40",
+      "14:10",
+      "16:10",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Udhawa",
+    "departureTimes": [
+      "06:15",
+      "09:30",
+      "11:00",
+      "14:00",
+      "19:45"
+    ],
+    "via": [
+      "Ambesari"
+    ]
+  },
+  {
+    "depot": "Vevji via Bordi",
+    "departureTimes": [
+      "10:15",
+      "15:45",
+      "16:00"
+    ],
+    "via": [
+      "Vevji",
+      "Bordi"
+    ]
+  }
+]

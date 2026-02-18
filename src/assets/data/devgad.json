@@ -1,0 +1,425 @@
+[
+  {
+    "depot": "Akkalkot",
+    "departureTimes": [
+      "06:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Belgaon",
+    "departureTimes": [
+      "07:15",
+      "11:50",
+      "13:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Borivali - Sleeper",
+    "departureTimes": [
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kankavali",
+    "departureTimes": [
+      "07:15",
+      "08:15",
+      "08:40",
+      "09:20",
+      "09:45",
+      "10:40",
+      "11:05",
+      "12:00",
+      "13:00",
+      "14:05",
+      "16:00",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kolhapur",
+    "departureTimes": [
+      "06:30",
+      "15:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kudal",
+    "departureTimes": [
+      "10:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Malvan",
+    "departureTimes": [
+      "07:20",
+      "07:45",
+      "15:20",
+      "15:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nandgaon",
+    "departureTimes": [
+      "14:30",
+      "15:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Panjim",
+    "departureTimes": [
+      "06:00",
+      "11:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pune",
+    "departureTimes": [
+      "08:10",
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ratnagiri",
+    "departureTimes": [
+      "05:00",
+      "08:00",
+      "08:30",
+      "09:50"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sangli",
+    "departureTimes": [
+      "12:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sawantwadi",
+    "departureTimes": [
+      "06:45",
+      "08:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Tuljapur",
+    "departureTimes": [
+      "09:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Aare",
+    "departureTimes": [
+      "08:00",
+      "12:30",
+      "17:30",
+      "08:15",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Achara",
+    "departureTimes": [
+      "11:30",
+      "13:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Achara Bandar",
+    "departureTimes": [
+      "11:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Baparde",
+    "departureTimes": [
+      "13:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dabhole",
+    "departureTimes": [
+      "07:00",
+      "07:30",
+      "10:00",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Katta",
+    "departureTimes": [
+      "07:10",
+      "10:20"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Katvan",
+    "departureTimes": [
+      "12:45",
+      "13:45",
+      "15:30",
+      "17:30",
+      "19:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kelewadi",
+    "departureTimes": [
+      "15:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Khudi",
+    "departureTimes": [
+      "06:15",
+      "07:55",
+      "07:40",
+      "12:00",
+      "14:15",
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Korle",
+    "departureTimes": [
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kunkeshwar",
+    "departureTimes": [
+      "09:10",
+      "09:30",
+      "10:30",
+      "10:50"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kuvale",
+    "departureTimes": [
+      "12:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Lingdaltitha",
+    "departureTimes": [
+      "08:20",
+      "09:30",
+      "13:20"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Manache",
+    "departureTimes": [
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mithbav",
+    "departureTimes": [
+      "07:00",
+      "11:00",
+      "17:35"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mond Highschool",
+    "departureTimes": [
+      "10:00",
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Morve",
+    "departureTimes": [
+      "08:00",
+      "16:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Munage High School",
+    "departureTimes": [
+      "08:00",
+      "15:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Narsalewadi",
+    "departureTimes": [
+      "15:10"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Padavne - Palaye",
+    "departureTimes": [
+      "08:15",
+      "12:00",
+      "16:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Palekarwadi",
+    "departureTimes": [
+      "07:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Patthar",
+    "departureTimes": [
+      "07:00",
+      "08:45",
+      "13:25"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pural",
+    "departureTimes": [
+      "07:40"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Rebavali",
+    "departureTimes": [
+      "08:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Rembavali",
+    "departureTimes": [
+      "08:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Saundale",
+    "departureTimes": [
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Talebazar",
+    "departureTimes": [
+      "09:40",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Tambaldheg",
+    "departureTimes": [
+      "05:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Tarale via Mond",
+    "departureTimes": [
+      "11:45"
+    ],
+    "via": [
+      "Tarale",
+      "Mond"
+    ]
+  },
+  {
+    "depot": "Tilot",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Torsole",
+    "departureTimes": [
+      "06:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vaghotan",
+    "departureTimes": [
+      "12:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vanivade",
+    "departureTimes": [
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vijaydurg",
+    "departureTimes": [
+      "06:30",
+      "08:15",
+      "09:45",
+      "10:40",
+      "11:00",
+      "11:45",
+      "12:00",
+      "14:00",
+      "16:00",
+      "18:20",
+      "20:05"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Virwadi",
+    "departureTimes": [
+      "07:00",
+      "09:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Wareri",
+    "departureTimes": [
+      "07:30",
+      "12:30",
+      "15:30"
+    ],
+    "via": []
+  }
+]
