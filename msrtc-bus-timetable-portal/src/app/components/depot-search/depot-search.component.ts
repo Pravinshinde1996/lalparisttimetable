@@ -216,6 +216,7 @@ export class DepotSearchComponent {
 
   search() {
     const city = this.depotName.trim().toLowerCase();
+    //test
 
     if (!city) return;
 
