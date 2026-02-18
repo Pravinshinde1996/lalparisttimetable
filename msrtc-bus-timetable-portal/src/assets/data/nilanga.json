@@ -1,0 +1,188 @@
+[
+  {
+    "depot": "Bhiwandi (Sleeper Seater)",
+    "departureTimes": [
+      "16:30"
+    ],
+    "via": [
+      "Bhiwandi Sleeper Seater",
+      "Umarga",
+      "Jalkot",
+      "Naldurg",
+      "Solapur",
+      "Mohol",
+      "Tembhurni",
+      "Indapur",
+      "Hadapsar",
+      "Swargate Pune",
+      "Panvel",
+      "Dombivali",
+      "Kalyan"
+    ]
+  },
+  {
+    "depot": "Chatrapati Sambhaji Nagar",
+    "departureTimes": [
+      "08:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Hyderabad",
+    "departureTimes": [
+      "08:00",
+      "14:00",
+      "22:40"
+    ],
+    "via": [
+      "Bhalki",
+      "Bidar",
+      "Zahirabad",
+      "Sangareddi",
+      "Lingampalli"
+    ]
+  },
+  {
+    "depot": "Latur",
+    "departureTimes": [],
+    "via": [
+      "Ausa"
+    ]
+  },
+  {
+    "depot": "Nanded via Latur",
+    "departureTimes": [
+      "14:30",
+      "17:00"
+    ],
+    "via": [
+      "Nanded",
+      "Latur",
+      "Ausa",
+      "Chakur",
+      "Shirur Tajband",
+      "Ahmadpur",
+      "Loha"
+    ]
+  },
+  {
+    "depot": "Nanded via Nalegaon",
+    "departureTimes": [
+      "06:30",
+      "07:30"
+    ],
+    "via": [
+      "Nanded",
+      "Nalegaon",
+      "Chakur",
+      "Shirur Tajband",
+      "Ahmadpur",
+      "Loha"
+    ]
+  },
+  {
+    "depot": "Pandharpur via Madansuri",
+    "departureTimes": [
+      "07:00",
+      "12:10"
+    ],
+    "via": [
+      "Pandharpur",
+      "Madansuri",
+      "Killari",
+      "Umarga",
+      "Jalkot",
+      "Naldurg",
+      "Solapur",
+      "Mohol"
+    ]
+  },
+  {
+    "depot": "Parbhani",
+    "departureTimes": [
+      "14:45"
+    ],
+    "via": [
+      "Ausa",
+      "Latur",
+      "Ambajogai",
+      "Parali",
+      "Gangakhed"
+    ]
+  },
+  {
+    "depot": "Pune (Chinchwad)",
+    "departureTimes": [
+      "06:00",
+      "07:30",
+      "15:00"
+    ],
+    "via": [
+      "Pune Chinchwad",
+      "Ausa",
+      "Latur",
+      "Yedshi",
+      "Barshi",
+      "Kurduwadi",
+      "Tembhurni",
+      "Indapur",
+      "Bhigvan",
+      "Kurkumbh",
+      "Yavat",
+      "Hadapsar",
+      "Swargate",
+      "New Shivaji Nagar Wakdewadi"
+    ]
+  },
+  {
+    "depot": "Pune (Shivshahi Bus)",
+    "departureTimes": [
+      "08:45"
+    ],
+    "via": [
+      "Pune Shivshahi Bus",
+      "Ausa",
+      "Latur",
+      "Yedshi",
+      "Barshi",
+      "Kurduwadi",
+      "Tembhurni",
+      "Indapur",
+      "Bhigvan",
+      "Kurkumbh",
+      "Yavat",
+      "Hadapsar",
+      "Swargate",
+      "New Shivaji Nagar Wakdewadi"
+    ]
+  },
+  {
+    "depot": "Shirdi",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": [
+      "Ausa",
+      "Latur",
+      "Ambajogai",
+      "Kej",
+      "Manjarsumbha",
+      "Patoda",
+      "Jamkhed",
+      "Ashti",
+      "Kada",
+      "Ahmednagar",
+      "Kolhar",
+      "Babhaleshwar",
+      "Rahata"
+    ]
+  },
+  {
+    "depot": "Umarga",
+    "departureTimes": [],
+    "via": [
+      "Every 1Hr",
+      "Killari"
+    ]
+  }
+]
