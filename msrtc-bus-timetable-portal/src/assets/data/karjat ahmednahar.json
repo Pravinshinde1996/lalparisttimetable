@@ -1,0 +1,356 @@
+[
+  {
+    "depot": "Ahmednagar via Mirajgaon",
+    "departureTimes": [
+      "07:45",
+      "08:30",
+      "09:15",
+      "10:00",
+      "11:00",
+      "13:30",
+      "13:45",
+      "15:15",
+      "16:30",
+      "17:30"
+    ],
+    "via": [
+      "Ahmednagar",
+      "Mirajgaon"
+    ]
+  },
+  {
+    "depot": "Baramati via Rashin",
+    "departureTimes": [
+      "08:45",
+      "10:00",
+      "10:15",
+      "11:30",
+      "12:00",
+      "13:30",
+      "15:00",
+      "16:15",
+      "17:30",
+      "19:00"
+    ],
+    "via": [
+      "Baramati",
+      "Rashin"
+    ]
+  },
+  {
+    "depot": "Beed via Jamkhed",
+    "departureTimes": [
+      "08:45",
+      "09:45",
+      "13:30"
+    ],
+    "via": [
+      "Beed",
+      "Jamkhed"
+    ]
+  },
+  {
+    "depot": "Bhoom",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dhule",
+    "departureTimes": [
+      "07:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Jalna",
+    "departureTimes": [
+      "12:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Jamkhed",
+    "departureTimes": [
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:30",
+      "15:00",
+      "16:15",
+      "17:15",
+      "18:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Jamkhed via Chondi",
+    "departureTimes": [
+      "11:00",
+      "17:15"
+    ],
+    "via": [
+      "Jamkhed",
+      "Chondi"
+    ]
+  },
+  {
+    "depot": "Karmala",
+    "departureTimes": [
+      "07:00",
+      "08:15",
+      "09:30",
+      "11:00",
+      "11:45",
+      "14:15",
+      "15:15",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kolhapur",
+    "departureTimes": [
+      "10:00",
+      "10:15",
+      "10:20",
+      "11:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kopargoan",
+    "departureTimes": [
+      "13:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Majalgaon",
+    "departureTimes": [
+      "15:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mumbai",
+    "departureTimes": [
+      "10:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pune via Shrigonda",
+    "departureTimes": [
+      "06:45",
+      "07:30",
+      "08:15",
+      "09:15",
+      "10:30",
+      "10:45",
+      "11:30",
+      "12:15",
+      "13:15",
+      "14:15",
+      "15:30"
+    ],
+    "via": [
+      "Pune",
+      "Shrigonda"
+    ]
+  },
+  {
+    "depot": "Pune via Siddhatek",
+    "departureTimes": [
+      "06:30",
+      "09:00",
+      "15:15"
+    ],
+    "via": [
+      "Pune",
+      "Siddhatek"
+    ]
+  },
+  {
+    "depot": "Satara",
+    "departureTimes": [
+      "14:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shegaon",
+    "departureTimes": [
+      "09:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shrigonda via Kuldharan",
+    "departureTimes": [
+      "06:45",
+      "09:05",
+      "10:30",
+      "11:00",
+      "11:30",
+      "13:45",
+      "16:30"
+    ],
+    "via": [
+      "Shrigonda",
+      "Kuldharan"
+    ]
+  },
+  {
+    "depot": "Trimbakeshwar via Nashik",
+    "departureTimes": [
+      "11:00"
+    ],
+    "via": [
+      "Trimbakeshwar",
+      "Nashik"
+    ]
+  },
+  {
+    "depot": "Aalsunde",
+    "departureTimes": [
+      "06:00",
+      "08:15",
+      "09:50",
+      "15:00",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Belvandi - Rakshaswadi",
+    "departureTimes": [
+      "08:10",
+      "17:50"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bitkewadi",
+    "departureTimes": [
+      "07:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chanda",
+    "departureTimes": [
+      "06:30",
+      "08:40",
+      "14:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chanda Bu||",
+    "departureTimes": [
+      "08:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chilvadi",
+    "departureTimes": [
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kaudane",
+    "departureTimes": [
+      "07:40",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Khandvi",
+    "departureTimes": [
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Khatgaon",
+    "departureTimes": [
+      "06:40",
+      "09:45",
+      "16:20"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kombhali",
+    "departureTimes": [
+      "14:50"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Konbhali Nagar",
+    "departureTimes": [
+      "07:15",
+      "13:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kopardi",
+    "departureTimes": [
+      "19:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mahi Ja. Malthan",
+    "departureTimes": [
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Rashin",
+    "departureTimes": [
+      "10:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Rashin - Shrigaonda",
+    "departureTimes": [
+      "08:00",
+      "13:00",
+      "15:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shinda",
+    "departureTimes": [
+      "08:10"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Taradgaon Malthan",
+    "departureTimes": [
+      "18:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Therwadi",
+    "departureTimes": [
+      "07:00",
+      "16:30"
+    ],
+    "via": []
+  }
+]

@@ -1,0 +1,648 @@
+[
+  {
+    "depot": "Akkalkot",
+    "departureTimes": [
+      "07:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Borivali - Mumbai",
+    "departureTimes": [
+      "17:30",
+      "17:45",
+      "18:00",
+      "18:15",
+      "19:20",
+      "19:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Devgad",
+    "departureTimes": [
+      "02:50",
+      "03:35",
+      "13:45",
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dharashiv",
+    "departureTimes": [
+      "05:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ganpatipule - Ratnagiri",
+    "departureTimes": [
+      "14:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kalyan",
+    "departureTimes": [
+      "09:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kankavali",
+    "departureTimes": [
+      "11:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kudal",
+    "departureTimes": [
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kurundwad",
+    "departureTimes": [
+      "06:05"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Latur",
+    "departureTimes": [
+      "14:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Malvan",
+    "departureTimes": [
+      "09:20",
+      "13:15",
+      "17:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mumbai",
+    "departureTimes": [
+      "08:00",
+      "09:15",
+      "11:45",
+      "19:30",
+      "18:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nrusinhwadi",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Paral - Mumbai",
+    "departureTimes": [
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pune",
+    "departureTimes": [
+      "08:30",
+      "09:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Rajapur",
+    "departureTimes": [
+      "04:45",
+      "08:15",
+      "09:15",
+      "09:50",
+      "10:15",
+      "10:50",
+      "11:15",
+      "12:50",
+      "14:45",
+      "15:35",
+      "16:05",
+      "18:05",
+      "18:50",
+      "19:20",
+      "20:35"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ratnagiri",
+    "departureTimes": [
+      "05:45",
+      "06:30",
+      "06:45",
+      "07:00",
+      "07:15",
+      "07:30",
+      "07:45",
+      "08:00",
+      "08:10",
+      "08:25",
+      "08:30",
+      "09:30",
+      "10:00",
+      "11:00",
+      "11:05",
+      "11:15",
+      "11:30",
+      "11:55",
+      "12:00",
+      "12:30",
+      "12:50",
+      "13:00",
+      "13:30",
+      "13:45",
+      "14:00",
+      "14:05",
+      "14:20",
+      "14:30",
+      "14:45",
+      "15:00",
+      "15:30",
+      "15:35",
+      "16:30",
+      "16:30",
+      "18:00",
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ratnagiri via Kajarghati",
+    "departureTimes": [
+      "05:30",
+      "06:15",
+      "08:45",
+      "11:45",
+      "13:00",
+      "15:45",
+      "16:45",
+      "18:30"
+    ],
+    "via": [
+      "Ratnagiri",
+      "Kajarghati"
+    ]
+  },
+  {
+    "depot": "Ratnagiri via Pawas",
+    "departureTimes": [
+      "07:30",
+      "09:00",
+      "10:30",
+      "13:45"
+    ],
+    "via": [
+      "Ratnagiri",
+      "Pawas"
+    ]
+  },
+  {
+    "depot": "Sakharpa",
+    "departureTimes": [
+      "08:00",
+      "09:00",
+      "10:10",
+      "11:30",
+      "12:15",
+      "13:00",
+      "13:40",
+      "14:30",
+      "16:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sawantwadi",
+    "departureTimes": [
+      "06:30",
+      "07:15",
+      "08:15",
+      "18:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vengurle",
+    "departureTimes": [
+      "15:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vijaydurg",
+    "departureTimes": [
+      "02:50",
+      "02:50",
+      "15:35"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Adavali",
+    "departureTimes": [
+      "05:45",
+      "08:30",
+      "13:05",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Anandgaon",
+    "departureTimes": [
+      "07:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bhambed Kolhewadi",
+    "departureTimes": [
+      "10:00",
+      "19:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chinchurti",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Gavane",
+    "departureTimes": [
+      "06:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Gondesakhal",
+    "departureTimes": [
+      "09:45",
+      "11:30",
+      "17:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Hardkhala",
+    "departureTimes": [
+      "08:40",
+      "11:00",
+      "14:45",
+      "18:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Jakadevi, Punas(Sa. Tale)",
+    "departureTimes": [
+      "09:30"
+    ],
+    "via": [
+      "Jakadevi",
+      "PunasSa. Tale"
+    ]
+  },
+  {
+    "depot": "Kajirda",
+    "departureTimes": [
+      "08:15",
+      "14:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Katalgaon",
+    "departureTimes": [
+      "06:00",
+      "08:30",
+      "12:30",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Khorninako",
+    "departureTimes": [
+      "09:30",
+      "12:45",
+      "15:30",
+      "17:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kochari",
+    "departureTimes": [
+      "09:00",
+      "13:40",
+      "17:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kolewadi",
+    "departureTimes": [
+      "05:45",
+      "13:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kot via (Punas)",
+    "departureTimes": [
+      "08:30",
+      "17:45"
+    ],
+    "via": [
+      "Kot",
+      "Punas"
+    ]
+  },
+  {
+    "depot": "Kurne",
+    "departureTimes": [
+      "06:45",
+      "17:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kuve Vareshiwadi",
+    "departureTimes": [
+      "07:00",
+      "12:20",
+      "17:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nivsar",
+    "departureTimes": [
+      "07:50",
+      "17:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pali",
+    "departureTimes": [
+      "07:10",
+      "11:30",
+      "12:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Palu",
+    "departureTimes": [
+      "09:00",
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ravari",
+    "departureTimes": [
+      "07:20",
+      "13:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Satavali - Jakadevi",
+    "departureTimes": [
+      "06:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shiravali",
+    "departureTimes": [
+      "07:00",
+      "09:00",
+      "12:30",
+      "16:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vadgaon",
+    "departureTimes": [
+      "06:00",
+      "08:15",
+      "13:00",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vaghrat",
+    "departureTimes": [
+      "08:20",
+      "15:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vangule",
+    "departureTimes": [
+      "06:45",
+      "09:45",
+      "13:15",
+      "19:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Veral",
+    "departureTimes": [
+      "07:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vivali",
+    "departureTimes": [
+      "07:10"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Yervande",
+    "departureTimes": [
+      "06:15",
+      "09:45",
+      "12:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bapere",
+    "departureTimes": [
+      "09:10",
+      "13:45",
+      "19:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Golvashi",
+    "departureTimes": [
+      "06:00",
+      "07:30",
+      "12:30",
+      "14:30",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Harche",
+    "departureTimes": [
+      "09:00",
+      "13:00",
+      "17:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Isavali",
+    "departureTimes": [
+      "08:00",
+      "12:30",
+      "15:15",
+      "18:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kangavali",
+    "departureTimes": [
+      "06:15",
+      "10:00",
+      "12:30",
+      "14:30",
+      "16:30",
+      "18:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kante",
+    "departureTimes": [
+      "06:00",
+      "09:00",
+      "11:00",
+      "14:00",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Koldhe - Kot",
+    "departureTimes": [
+      "06:00",
+      "07:10",
+      "09:00",
+      "09:45",
+      "10:45",
+      "12:30",
+      "13:00",
+      "15:15",
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kuve Indavati",
+    "departureTimes": [
+      "06:00",
+      "08:00",
+      "11:00",
+      "12:30",
+      "14:45",
+      "15:45",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nivoshi Indavati",
+    "departureTimes": [
+      "05:45",
+      "08:25",
+      "11:00",
+      "12:30",
+      "15:15",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Padvan (Panhale)",
+    "departureTimes": [
+      "06:00",
+      "07:45",
+      "10:10",
+      "13:00",
+      "16:30",
+      "18:15"
+    ],
+    "via": [
+      "Padvan Panhale"
+    ]
+  },
+  {
+    "depot": "Patharwadi",
+    "departureTimes": [
+      "05:45",
+      "09:15",
+      "10:45",
+      "13:30",
+      "16:00",
+      "18:20"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Veergaon",
+    "departureTimes": [
+      "08:15",
+      "12:30",
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Zarye",
+    "departureTimes": [
+      "06:00",
+      "08:00",
+      "09:10",
+      "12:15",
+      "14:15",
+      "16:15",
+      "18:05"
+    ],
+    "via": []
+  }
+]
