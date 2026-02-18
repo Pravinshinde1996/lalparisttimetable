@@ -1,0 +1,80 @@
+<div class="page">
+  <div class="search-card">
+    <h1>🚌 MSRTC ST Time Table Portal</h1>
+    <p class="subtitle">where are you now?/आपण सध्या कुठे आहात?</p>
+
+    <div class="search-box">
+      <div class="autocomplete-wrapper">
+        <input
+          type="text"
+          [value]="depotName"
+          (input)="onInputChange($any($event.target).value)"
+          placeholder="Enter (City/Depot Name)"
+        />
+
+        <!-- Suggestions Dropdown -->
+        <ul *ngIf="showSuggestions && filteredSuggestions.length > 0" class="suggestions">
+          <li *ngFor="let suggestion of filteredSuggestions" (click)="selectSuggestion(suggestion)">
+            {{ suggestion }}
+          </li>
+        </ul>
+      </div>
+
+      <button (click)="search()">Search</button>
+    </div>
+  </div>
+
+  <!-- Results -->
+  <div *ngIf="depots.length > 0" class="results">
+    <table class="bus-table">
+      <thead>
+        <tr>
+          <th (click)="sortData('depot')" class="sortable">
+            From {{ depotName }} To
+            <span *ngIf="sortColumn === 'depot'">
+              {{ sortDirection === 'asc' ? '▲' : '▼' }}
+            </span>
+          </th>
+          <th>Departure Times</th>
+          <th>Bus Route</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr *ngFor="let depot of paginatedDepots">
+          <td class="depot-name">
+            {{ depot.depot }}
+          </td>
+
+          <td>
+            <div class="times-inline">
+              <span *ngFor="let time of depot.departureTimes">
+                {{ time }}
+              </span>
+            </div>
+          </td>
+          <td class="via-column">
+            <div
+              class="times-inline"
+              [ngClass]="{ 'via-content': depot.via && depot.via.length > 0 }"
+            >
+              <span>
+                {{ depot.via || '-' }}
+              </span>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="pagination" *ngIf="totalPages > 1">
+    <button (click)="prevPage()" [disabled]="currentPage === 1">◀ Previous</button>
+
+    <span> Page {{ currentPage }} of {{ totalPages }} </span>
+
+    <button (click)="nextPage()" [disabled]="currentPage === totalPages">Next ▶</button>
+  </div>
+
+  <div *ngIf="notFound" class="error">❌ No Data Found</div>
+</div>

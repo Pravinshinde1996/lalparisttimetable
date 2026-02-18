@@ -1,0 +1,199 @@
+[
+  {
+    "depot": "Ambad",
+    "departureTimes": [
+      "07:15",
+      "09:30",
+      "11:30",
+      "11:45",
+      "12:30",
+      "13:15",
+      "16:30",
+      "17:15",
+      "18:10",
+      "18:30"
+    ],
+    "via": [
+      "Bondhlapuri"
+    ]
+  },
+  {
+    "depot": "Ashti",
+    "departureTimes": [
+      "07:15",
+      "08:30",
+      "09:15",
+      "12:30",
+      "13:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bodkha",
+    "departureTimes": [
+      "08:30",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Borgaon",
+    "departureTimes": [
+      "08:00",
+      "09:00",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chatrapati Sambhaji Nagar",
+    "departureTimes": [
+      "09:15",
+      "15:15",
+      "17:00"
+    ],
+    "via": [
+      "Ambad",
+      "Rohilagad",
+      "Adul"
+    ]
+  },
+  {
+    "depot": "Chincholiwadi",
+    "departureTimes": [
+      "07:30",
+      "15:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dakefal",
+    "departureTimes": [
+      "08:00",
+      "10:30",
+      "15:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dhamangaon",
+    "departureTimes": [
+      "10:00",
+      "14:30",
+      "17:00"
+    ],
+    "via": [
+      "Kumbhar",
+      "Pimpalgaon"
+    ]
+  },
+  {
+    "depot": "Gunj",
+    "departureTimes": [
+      "09:30",
+      "20:00"
+    ],
+    "via": [
+      "Kumbhar",
+      "Pimpalgaon"
+    ]
+  },
+  {
+    "depot": "Gurupimpri",
+    "departureTimes": [
+      "06:00",
+      "08:00",
+      "09:00",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Jalna",
+    "departureTimes": [
+      "06:15",
+      "10:30",
+      "15:15"
+    ],
+    "via": [
+      "Unchegaon"
+    ]
+  },
+  {
+    "depot": "Kumbhar Pimpalgaon",
+    "departureTimes": [
+      "07:30",
+      "09:00",
+      "10:30",
+      "10:45",
+      "11:30",
+      "12:00",
+      "12:30",
+      "13:30",
+      "14:00",
+      "17:00"
+    ],
+    "via": [
+      "Chincholi"
+    ]
+  },
+  {
+    "depot": "Maherjawala",
+    "departureTimes": [
+      "07:45",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mangujalgaon",
+    "departureTimes": [
+      "09:00",
+      "15:15",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nanded",
+    "departureTimes": [
+      "07:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Panewadi",
+    "departureTimes": [
+      "06:15",
+      "10:30",
+      "15:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pune",
+    "departureTimes": [
+      "07:45"
+    ],
+    "via": [
+      "Teerthpuri",
+      "Shahagad"
+    ]
+  },
+  {
+    "depot": "Sakalgaon",
+    "departureTimes": [
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Teerthpuri",
+    "departureTimes": [
+      "07:45",
+      "09:45",
+      "16:30"
+    ],
+    "via": []
+  }
+]

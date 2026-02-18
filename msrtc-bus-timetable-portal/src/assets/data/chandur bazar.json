@@ -1,0 +1,253 @@
+[
+  {
+    "depot": "Nagpur",
+    "departureTimes": [
+      "06:15",
+      "07:30",
+      "10:30",
+      "12:30"
+    ],
+    "via": [
+      "Amravati"
+    ]
+  },
+  {
+    "depot": "Paratwada",
+    "departureTimes": [
+      "09:15",
+      "19:45"
+    ],
+    "via": [
+      "Amravati"
+    ]
+  },
+  {
+    "depot": "Tumsar",
+    "departureTimes": [
+      "09:15",
+      "19:45"
+    ],
+    "via": [
+      "Warud"
+    ]
+  },
+  {
+    "depot": "Chhindwara",
+    "departureTimes": [
+      "07:15"
+    ],
+    "via": [
+      "Warud"
+    ]
+  },
+  {
+    "depot": "Akola",
+    "departureTimes": [
+      "09:45",
+      "14:45"
+    ],
+    "via": [
+      "Paratwada"
+    ]
+  },
+  {
+    "depot": "Chatrapati Sambhaji Nagar",
+    "departureTimes": [
+      "12:00"
+    ],
+    "via": [
+      "Paratwada"
+    ]
+  },
+  {
+    "depot": "Washim",
+    "departureTimes": [
+      "11:00"
+    ],
+    "via": [
+      "Amravati"
+    ]
+  },
+  {
+    "depot": "Khamgaon",
+    "departureTimes": [
+      "12:00"
+    ],
+    "via": [
+      "Paratwada"
+    ]
+  },
+  {
+    "depot": "Bhandum",
+    "departureTimes": [
+      "07:30"
+    ],
+    "via": [
+      "Paratwada"
+    ]
+  },
+  {
+    "depot": "Multai",
+    "departureTimes": [
+      "16:45"
+    ],
+    "via": [
+      "Warud"
+    ]
+  },
+  {
+    "depot": "Amravati",
+    "departureTimes": [
+      "05:45",
+      "06:00",
+      "06:35",
+      "07:00",
+      "07:30",
+      "07:45",
+      "08:30",
+      "08:30",
+      "09:00",
+      "09:00",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "11:45",
+      "12:00",
+      "13:30",
+      "14:00",
+      "14:15",
+      "14:45",
+      "15:30",
+      "16:30",
+      "17:30",
+      "17:30",
+      "18:00",
+      "18:00",
+      "18:15",
+      "19:00",
+      "19:15",
+      "19:30",
+      "20:45",
+      "21:15"
+    ],
+    "via": [
+      "Valgaon"
+    ]
+  },
+  {
+    "depot": "Tiwasa",
+    "departureTimes": [
+      "07:30",
+      "07:45",
+      "09:00",
+      "12:45",
+      "14:00",
+      "16:30",
+      "19:30"
+    ],
+    "via": [
+      "Belora Adgaon"
+    ]
+  },
+  {
+    "depot": "Shirajgaon Kasaba - Paratwada Ghatladki - Wani",
+    "departureTimes": [
+      "06:00",
+      "07:30",
+      "12:00",
+      "14:00",
+      "14:45",
+      "20:15",
+      "10:10",
+      "12:00",
+      "16:30",
+      "18:45",
+      "08:15",
+      "10:15",
+      "10:30",
+      "16:30",
+      "16:45",
+      "17:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Asegaon - Savlapur",
+    "departureTimes": [
+      "06:45",
+      "08:00",
+      "09:30",
+      "10:15",
+      "12:00",
+      "14:00",
+      "16:00",
+      "16:45",
+      "19:30"
+    ],
+    "via": [
+      "Kurha"
+    ]
+  },
+  {
+    "depot": "Ghatladki",
+    "departureTimes": [
+      "06:00",
+      "06:15",
+      "07:30",
+      "07:30",
+      "10:00",
+      "11:00",
+      "12:00",
+      "14:30",
+      "17:30",
+      "19:45"
+    ],
+    "via": [
+      "Sonori"
+    ]
+  },
+  {
+    "depot": "Thugaon - Deurwada Kodori - Shirajgaon Kasba",
+    "departureTimes": [
+      "06:00",
+      "06:30",
+      "07:00",
+      "08:15",
+      "09:00",
+      "10:00",
+      "10:30",
+      "12:00",
+      "14:30",
+      "17:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Morshi",
+    "departureTimes": [
+      "06:00",
+      "07:30",
+      "08:30",
+      "09:15",
+      "09:30",
+      "10:15",
+      "10:45",
+      "11:45",
+      "12:00",
+      "12:45",
+      "13:15",
+      "14:00",
+      "14:30",
+      "14:45",
+      "15:30",
+      "16:30",
+      "17:30",
+      "17:45",
+      "18:45",
+      "19:30",
+      "19:45"
+    ],
+    "via": []
+  }
+]

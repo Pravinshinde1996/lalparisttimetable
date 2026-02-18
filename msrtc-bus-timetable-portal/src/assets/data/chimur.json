@@ -1,0 +1,342 @@
+[
+  {
+    "depot": "Amravati",
+    "departureTimes": [
+      "06:30",
+      "07:30",
+      "08:00",
+      "14:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bhandara via Pavani",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": [
+      "Bhandara",
+      "Pavani"
+    ]
+  },
+  {
+    "depot": "Bhisi",
+    "departureTimes": [
+      "19:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bhisi via Gardapar",
+    "departureTimes": [
+      "09:00",
+      "17:25"
+    ],
+    "via": [
+      "Bhisi",
+      "Gardapar"
+    ]
+  },
+  {
+    "depot": "Bhivapur",
+    "departureTimes": [
+      "09:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bramhapuri via Kampa",
+    "departureTimes": [
+      "07:30",
+      "10:00",
+      "12:00",
+      "12:30",
+      "16:30"
+    ],
+    "via": [
+      "Bramhapuri",
+      "Kampa"
+    ]
+  },
+  {
+    "depot": "Chandrapur",
+    "departureTimes": [
+      "06:30",
+      "07:30",
+      "08:00",
+      "09:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:15",
+      "18:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Gadchandur",
+    "departureTimes": [
+      "10:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Gadchiroli",
+    "departureTimes": [
+      "08:00",
+      "12:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Girad via Kora",
+    "departureTimes": [
+      "12:15"
+    ],
+    "via": [
+      "Girad",
+      "Kora"
+    ]
+  },
+  {
+    "depot": "Girad via Nand",
+    "departureTimes": [
+      "08:45",
+      "13:45"
+    ],
+    "via": [
+      "Girad",
+      "Nand"
+    ]
+  },
+  {
+    "depot": "Jambhulghar via Kampa",
+    "departureTimes": [
+      "06:30",
+      "09:15",
+      "10:45",
+      "11:30",
+      "13:00",
+      "14:00",
+      "16:00",
+      "17:00",
+      "18:00"
+    ],
+    "via": [
+      "Jambhulghar",
+      "Kampa"
+    ]
+  },
+  {
+    "depot": "Kampa via Doma",
+    "departureTimes": [
+      "06:00",
+      "08:45",
+      "14:30"
+    ],
+    "via": [
+      "Kampa",
+      "Doma"
+    ]
+  },
+  {
+    "depot": "Mahadwadi",
+    "departureTimes": [
+      "09:00",
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Minizhari",
+    "departureTimes": [
+      "06:30",
+      "12:30",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mul via Masal, Piparda",
+    "departureTimes": [
+      "07:50",
+      "13:45"
+    ],
+    "via": [
+      "Mul",
+      "Masal",
+      "Piparda"
+    ]
+  },
+  {
+    "depot": "Nagbhid via Kampa",
+    "departureTimes": [
+      "06:30",
+      "15:00"
+    ],
+    "via": [
+      "Nagbhid",
+      "Kampa"
+    ]
+  },
+  {
+    "depot": "Nagbhid via Neru",
+    "departureTimes": [
+      "10:15"
+    ],
+    "via": [
+      "Nagbhid",
+      "Neru"
+    ]
+  },
+  {
+    "depot": "Nagpur via Umred",
+    "departureTimes": [
+      "09:00",
+      "09:30",
+      "11:00",
+      "11:45",
+      "13:00",
+      "15:00",
+      "16:30",
+      "18:15"
+    ],
+    "via": [
+      "Nagpur",
+      "Umred"
+    ]
+  },
+  {
+    "depot": "Navtala",
+    "departureTimes": [
+      "19:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Palasgaon via Masal",
+    "departureTimes": [
+      "06:00",
+      "08:30",
+      "15:15"
+    ],
+    "via": [
+      "Palasgaon",
+      "Masal"
+    ]
+  },
+  {
+    "depot": "Sathgaon",
+    "departureTimes": [
+      "19:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sindewahi via Masal",
+    "departureTimes": [
+      "08:30",
+      "10:15",
+      "14:30",
+      "16:00",
+      "17:00",
+      "18:15"
+    ],
+    "via": [
+      "Sindewahi",
+      "Masal"
+    ]
+  },
+  {
+    "depot": "Sindewahi via Neri",
+    "departureTimes": [
+      "06:30",
+      "07:30",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:00",
+      "12:30",
+      "13:00",
+      "13:30",
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "17:30",
+      "18:30"
+    ],
+    "via": [
+      "Sindewahi",
+      "Neri"
+    ]
+  },
+  {
+    "depot": "Talodhi",
+    "departureTimes": [
+      "08:30",
+      "11:45",
+      "14:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Umred via Bhisi",
+    "departureTimes": [
+      "08:30",
+      "11:30",
+      "14:30",
+      "15:30"
+    ],
+    "via": [
+      "Umred",
+      "Bhisi"
+    ]
+  },
+  {
+    "depot": "Wakarla",
+    "departureTimes": [
+      "08:15",
+      "15:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Wardha via Girad",
+    "departureTimes": [
+      "06:30",
+      "13:15"
+    ],
+    "via": [
+      "Wardha",
+      "Girad"
+    ]
+  },
+  {
+    "depot": "Wardha via Hinganghat",
+    "departureTimes": [
+      "06:15",
+      "08:30",
+      "10:30",
+      "13:00",
+      "15:30",
+      "17:30"
+    ],
+    "via": [
+      "Wardha",
+      "Hinganghat"
+    ]
+  },
+  {
+    "depot": "Warora",
+    "departureTimes": [
+      "08:15",
+      "09:15",
+      "12:30",
+      "15:45",
+      "17:00"
+    ],
+    "via": []
+  }
+]

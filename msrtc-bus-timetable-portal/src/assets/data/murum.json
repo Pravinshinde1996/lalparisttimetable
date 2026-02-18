@@ -1,0 +1,132 @@
+[
+  {
+    "depot": "Akkalkot",
+    "departureTimes": [
+      "07:45",
+      "08:45",
+      "09:45",
+      "10:45",
+      "11:45",
+      "12:45",
+      "13:45",
+      "14:45",
+      "15:45",
+      "16:45",
+      "17:15",
+      "17:45",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Aland",
+    "departureTimes": [
+      "06:00",
+      "10:30",
+      "16:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bhokar",
+    "departureTimes": [
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bhusani",
+    "departureTimes": [
+      "14:00",
+      "16:00",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dadar",
+    "departureTimes": [
+      "09:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Gaganbawda via Kolhapur",
+    "departureTimes": [
+      "06:45"
+    ],
+    "via": [
+      "Gaganbawda",
+      "Kolhapur",
+      "Jalkot",
+      "Naldurg",
+      "Solapur",
+      "Pandharpur",
+      "Sangola",
+      "Miraj",
+      "Sangli"
+    ]
+  },
+  {
+    "depot": "Kantekur",
+    "departureTimes": [
+      "08:00",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:00",
+      "18:00",
+      "19:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kothali",
+    "departureTimes": [
+      "07:45",
+      "09:15",
+      "11:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pune (Chinchwad)",
+    "departureTimes": [
+      "07:15",
+      "08:00"
+    ],
+    "via": [
+      "Pune Chinchwad",
+      "Jalkot",
+      "Naldurg",
+      "Solapur",
+      "Tembhurni",
+      "Indapur",
+      "Swargate Pune"
+    ]
+  },
+  {
+    "depot": "Solapur",
+    "departureTimes": [
+      "10:30",
+      "14:05"
+    ],
+    "via": [
+      "Jalkot",
+      "Naldurg"
+    ]
+  },
+  {
+    "depot": "Varnal",
+    "departureTimes": [
+      "08:15",
+      "15:45"
+    ],
+    "via": []
+  }
+]

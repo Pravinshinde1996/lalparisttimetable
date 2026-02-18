@@ -1,0 +1,328 @@
+[
+  {
+    "depot": "Akola",
+    "departureTimes": [
+      "11:15",
+      "12:30",
+      "16:30"
+    ],
+    "via": [
+      "Narsi",
+      "Naigaon",
+      "Nanded",
+      "Hingoli",
+      "Washim"
+    ]
+  },
+  {
+    "depot": "Amravati",
+    "departureTimes": [
+      "10:45"
+    ],
+    "via": [
+      "Narsi",
+      "Naigaon",
+      "Nanded",
+      "Hingoli",
+      "Washim"
+    ]
+  },
+  {
+    "depot": "Aurangabad",
+    "departureTimes": [
+      "07:30",
+      "09:30",
+      "10:15",
+      "12:00"
+    ],
+    "via": [
+      "Narsi",
+      "Naigaon",
+      "Nanded",
+      "Vasmat",
+      "Parbhani",
+      "Jintur",
+      "Jalna"
+    ]
+  },
+  {
+    "depot": "Bodhan",
+    "departureTimes": [
+      "09:30",
+      "10:00",
+      "10:15",
+      "11:00",
+      "12:00",
+      "13:00",
+      "13:30",
+      "14:00",
+      "15:00",
+      "15:30",
+      "19:00",
+      "21:00"
+    ],
+    "via": [
+      "Salura"
+    ]
+  },
+  {
+    "depot": "Degloor",
+    "departureTimes": [
+      "07:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "12:30",
+      "13:30",
+      "14:00",
+      "14:30",
+      "18:00",
+      "19:00"
+    ],
+    "via": [
+      "Badur",
+      "Admapur",
+      "Takli"
+    ]
+  },
+  {
+    "depot": "Dharmabad",
+    "departureTimes": [],
+    "via": [
+      "Kundalwadi",
+      "Bhabhali Phata"
+    ]
+  },
+  {
+    "depot": "Gangakhed",
+    "departureTimes": [
+      "14:00"
+    ],
+    "via": [
+      "Narsi",
+      "Mukhed",
+      "Kandhar",
+      "Loha"
+    ]
+  },
+  {
+    "depot": "Hyderabad",
+    "departureTimes": [
+      "10:45",
+      "11:45",
+      "12:45",
+      "13:15",
+      "13:30",
+      "13:45",
+      "16:45",
+      "21:45",
+      "22:45",
+      "23:45"
+    ],
+    "via": [
+      "Bodhan",
+      "Nizamabad",
+      "Kamareddy"
+    ]
+  },
+  {
+    "depot": "Latur",
+    "departureTimes": [
+      "14:30",
+      "15:30"
+    ],
+    "via": [
+      "Narsi",
+      "Mukhed",
+      "Shirur"
+    ]
+  },
+  {
+    "depot": "Nanded",
+    "departureTimes": [
+      "01:30",
+      "02:30",
+      "03:30",
+      "20:30"
+    ],
+    "via": [
+      "Narsi",
+      "Naigaon"
+    ]
+  },
+  {
+    "depot": "Nizamabad",
+    "departureTimes": [
+      "07:00",
+      "07:30",
+      "08:45",
+      "10:15",
+      "10:30",
+      "11:30",
+      "15:15",
+      "16:15",
+      "17:45",
+      "18:30",
+      "19:00"
+    ],
+    "via": [
+      "Bodhan"
+    ]
+  },
+  {
+    "depot": "Pandharpur",
+    "departureTimes": [
+      "08:00",
+      "08:30",
+      "09:00",
+      "11:30"
+    ],
+    "via": [
+      "Narsi",
+      "Mukhed",
+      "Latur",
+      "Solapur"
+    ]
+  },
+  {
+    "depot": "Shegaon",
+    "departureTimes": [
+      "07:00",
+      "09:45"
+    ],
+    "via": [
+      "Nanded",
+      "Vasmat",
+      "Aundha",
+      "Hingoli",
+      "Khamgaon"
+    ]
+  },
+  {
+    "depot": "Belkoni Khu.",
+    "departureTimes": [
+      "08:00",
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chikhali",
+    "departureTimes": [
+      "13:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Gagalewadi",
+    "departureTimes": [
+      "07:45",
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ganjgaon",
+    "departureTimes": [
+      "07:30",
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Karegaon- Umari",
+    "departureTimes": [
+      "07:00",
+      "10:30",
+      "13:30",
+      "14:30",
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kesrali",
+    "departureTimes": [
+      "08:00",
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kumbhargaon",
+    "departureTimes": [
+      "08:00",
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mugaon",
+    "departureTimes": [
+      "13:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Raodhanora via Ku. Wadi",
+    "departureTimes": [
+      "08:30",
+      "14:30",
+      "19:00"
+    ],
+    "via": [
+      "Raodhanora",
+      "Ku. Wadi"
+    ]
+  },
+  {
+    "depot": "Raodhanora via Narsi",
+    "departureTimes": [
+      "08:30",
+      "14:30",
+      "19:00"
+    ],
+    "via": [
+      "Raodhanora",
+      "Narsi"
+    ]
+  },
+  {
+    "depot": "Sagroli",
+    "departureTimes": [
+      "11:30",
+      "14:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shelgaon",
+    "departureTimes": [
+      "19:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Takli via Sagroli",
+    "departureTimes": [
+      "08:00",
+      "16:00"
+    ],
+    "via": [
+      "Takli",
+      "Sagroli"
+    ]
+  },
+  {
+    "depot": "Takli via Vadur",
+    "departureTimes": [
+      "08:00",
+      "16:00"
+    ],
+    "via": [
+      "Takli",
+      "Vadur"
+    ]
+  }
+]
