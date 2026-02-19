@@ -1,0 +1,302 @@
+[
+  {
+    "depot": "Akkalkot",
+    "departureTimes": [
+      "08:05",
+      "18:30"
+    ],
+    "via": [
+      "Kankavli"
+    ]
+  },
+  {
+    "depot": "Dharashiv - Osmanabad",
+    "departureTimes": [
+      "20:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kolhapur",
+    "departureTimes": [
+      "08:20",
+      "10:00",
+      "19:10"
+    ],
+    "via": [
+      "Kankavli"
+    ]
+  },
+  {
+    "depot": "Kurundwad",
+    "departureTimes": [
+      "11:15"
+    ],
+    "via": [
+      "Kankavli"
+    ]
+  },
+  {
+    "depot": "Mahabaleshwar",
+    "departureTimes": [
+      "07:40"
+    ],
+    "via": [
+      "Kankavli"
+    ]
+  },
+  {
+    "depot": "Pune",
+    "departureTimes": [
+      "07:20",
+      "09:00",
+      "09:50",
+      "11:45",
+      "19:30",
+      "20:15",
+      "23:00"
+    ],
+    "via": [
+      "Kankavli"
+    ]
+  },
+  {
+    "depot": "Solapur",
+    "departureTimes": [
+      "09:20"
+    ],
+    "via": [
+      "Kankavli"
+    ]
+  },
+  {
+    "depot": "Tasgaon",
+    "departureTimes": [
+      "10:50",
+      "11:00"
+    ],
+    "via": [
+      "Kankavli"
+    ]
+  },
+  {
+    "depot": "Vijapur",
+    "departureTimes": [
+      "07:00",
+      "19:50"
+    ],
+    "via": [
+      "Kankavli"
+    ]
+  },
+  {
+    "depot": "Ajara",
+    "departureTimes": [
+      "17:00"
+    ],
+    "via": [
+      "Sawantwadi"
+    ]
+  },
+  {
+    "depot": "Belgaon",
+    "departureTimes": [
+      "09:20",
+      "15:15"
+    ],
+    "via": [
+      "Sawantwadi"
+    ]
+  },
+  {
+    "depot": "Dapoli",
+    "departureTimes": [
+      "08:40"
+    ],
+    "via": [
+      "Sawantwadi"
+    ]
+  },
+  {
+    "depot": "Gadhinglaj",
+    "departureTimes": [
+      "14:30"
+    ],
+    "via": [
+      "Sawantwadi"
+    ]
+  },
+  {
+    "depot": "Kudal",
+    "departureTimes": [
+      "03:30",
+      "15:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Panjim - Goa",
+    "departureTimes": [
+      "01:35",
+      "02:40",
+      "04:40",
+      "04:45",
+      "06:10",
+      "08:10",
+      "09:20",
+      "09:20",
+      "12:45",
+      "13:50",
+      "13:50",
+      "14:30",
+      "15:15",
+      "15:15",
+      "16:00",
+      "16:30",
+      "17:00",
+      "16:00",
+      "16:30"
+    ],
+    "via": [
+      "Sawantwadi"
+    ]
+  },
+  {
+    "depot": "Sawantwadi",
+    "departureTimes": [
+      "07:40",
+      "08:10",
+      "09:00",
+      "09:05",
+      "09:20",
+      "10:00",
+      "11:00",
+      "11:20",
+      "13:45",
+      "15:50",
+      "15:50",
+      "17:30",
+      "18:30",
+      "21:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Devrukh",
+    "departureTimes": [
+      "06:30"
+    ],
+    "via": [
+      "Kankavli"
+    ]
+  },
+  {
+    "depot": "Devgad",
+    "departureTimes": [
+      "07:30",
+      "09:20",
+      "10:00"
+    ],
+    "via": [
+      "Kankavli"
+    ]
+  },
+  {
+    "depot": "Ratnagiri",
+    "departureTimes": [
+      "07:40",
+      "08:20",
+      "09:50",
+      "10:50",
+      "14:00",
+      "15:15"
+    ],
+    "via": [
+      "Kankavli"
+    ]
+  },
+  {
+    "depot": "Kankavli",
+    "departureTimes": [
+      "10:00",
+      "10:20",
+      "11:00",
+      "12:00",
+      "16:20"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sangli",
+    "departureTimes": [
+      "12:40"
+    ],
+    "via": [
+      "Kankavli"
+    ]
+  },
+  {
+    "depot": "Vijaydurg",
+    "departureTimes": [
+      "15:50"
+    ],
+    "via": [
+      "Kankavli"
+    ]
+  },
+  {
+    "depot": "Kharepatan",
+    "departureTimes": [
+      "18:45"
+    ],
+    "via": [
+      "Kankavli"
+    ]
+  },
+  {
+    "depot": "Chowk",
+    "departureTimes": [
+      "08:15"
+    ],
+    "via": [
+      "Malvan"
+    ]
+  },
+  {
+    "depot": "Malvan",
+    "departureTimes": [
+      "08:20",
+      "10:40",
+      "13:30",
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kasal",
+    "departureTimes": [
+      "10:00"
+    ],
+    "via": [
+      "Malvan"
+    ]
+  },
+  {
+    "depot": "Vengurla",
+    "departureTimes": [
+      "09:05",
+      "10:00",
+      "11:00",
+      "12:00",
+      "12:05",
+      "15:50",
+      "17:30",
+      "18:15",
+      "18:20",
+      "19:05",
+      "19:30",
+      "20:10"
+    ],
+    "via": []
+  }
+]

@@ -1,0 +1,710 @@
+[
+  {
+    "depot": "Nashik (Sadhi Bus)",
+    "departureTimes": [
+      "06:35",
+      "07:00",
+      "07:25",
+      "07:35",
+      "07:50",
+      "08:15",
+      "08:25",
+      "08:45",
+      "09:00",
+      "09:30",
+      "09:40",
+      "09:50",
+      "10:05",
+      "10:20",
+      "11:00",
+      "11:30",
+      "11:55",
+      "12:05",
+      "12:15",
+      "12:25",
+      "12:30",
+      "12:45",
+      "13:00",
+      "13:30",
+      "13:55",
+      "14:10",
+      "14:25",
+      "14:40",
+      "15:00",
+      "15:20",
+      "15:30",
+      "15:45",
+      "16:00",
+      "16:15",
+      "16:30",
+      "16:45",
+      "17:05",
+      "17:20",
+      "17:30",
+      "17:45",
+      "18:00",
+      "18:15",
+      "18:30",
+      "18:45",
+      "19:00",
+      "19:35",
+      "20:05",
+      "20:20",
+      "20:35",
+      "20:50",
+      "21:05",
+      "21:35",
+      "21:50",
+      "22:00",
+      "22:20",
+      "22:35",
+      "23:05"
+    ],
+    "via": [
+      "Nashik Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Nashik (AC EBus)",
+    "departureTimes": [
+      "06:30",
+      "06:45",
+      "07:00",
+      "07:15",
+      "07:30",
+      "07:45",
+      "08:30",
+      "08:45",
+      "09:00",
+      "09:15",
+      "09:30",
+      "09:45",
+      "11:20",
+      "11:35",
+      "11:50",
+      "12:05",
+      "12:20",
+      "12:35",
+      "13:20",
+      "13:35",
+      "13:50",
+      "14:05",
+      "14:20",
+      "14:35",
+      "15:00",
+      "15:30",
+      "16:00",
+      "17:00",
+      "17:30",
+      "18:00",
+      "19:50",
+      "20:20",
+      "20:50",
+      "21:50",
+      "22:20",
+      "22:50"
+    ],
+    "via": [
+      "Nashik AC EBus"
+    ]
+  },
+  {
+    "depot": "Trimbakeshwar (Sadhi Bus)",
+    "departureTimes": [
+      "05:45",
+      "06:15",
+      "06:45",
+      "07:15",
+      "07:45",
+      "08:15",
+      "08:45",
+      "09:15",
+      "09:45",
+      "10:15",
+      "10:45",
+      "11:15",
+      "11:45",
+      "12:15",
+      "12:45",
+      "13:15",
+      "13:45",
+      "14:15",
+      "14:45",
+      "15:15",
+      "15:45",
+      "16:15",
+      "16:45",
+      "17:15",
+      "17:45",
+      "18:15",
+      "18:45",
+      "19:15",
+      "19:45",
+      "20:15",
+      "20:45",
+      "21:15",
+      "21:45"
+    ],
+    "via": [
+      "Trimbakeshwar Sadhi Bus"
+    ]
+  },
+  {
+    "depot": "Trimbakeshwar (AC EBus)",
+    "departureTimes": [
+      "05:00",
+      "05:30",
+      "06:00",
+      "06:30",
+      "07:00",
+      "07:30",
+      "08:00",
+      "08:30",
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30",
+      "13:00",
+      "13:30",
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30",
+      "18:00",
+      "18:30",
+      "19:00",
+      "19:30",
+      "20:00",
+      "20:30",
+      "21:00",
+      "21:20"
+    ],
+    "via": [
+      "Trimbakeshwar AC EBus"
+    ]
+  },
+  {
+    "depot": "Torangan",
+    "departureTimes": [
+      "06:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Fanaspada",
+    "departureTimes": [
+      "06:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Wadholi",
+    "departureTimes": [
+      "10:15",
+      "16:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dahegaon",
+    "departureTimes": [
+      "16:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mulegaon",
+    "departureTimes": [
+      "07:15",
+      "09:15",
+      "13:05",
+      "15:10",
+      "16:40",
+      "20:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Akkalkot",
+    "departureTimes": [
+      "07:00"
+    ],
+    "via": [
+      "Nashik Mahamarg",
+      "Sinnar",
+      "Sangamner",
+      "Solapur"
+    ]
+  },
+  {
+    "depot": "Tuljapur",
+    "departureTimes": [
+      "10:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mumbai (Shivshahi)",
+    "departureTimes": [
+      "07:45",
+      "15:00",
+      "19:45"
+    ],
+    "via": [
+      "Mumbai Shivshahi",
+      "Nashik Mahamarg",
+      "Shahapur",
+      "Thane",
+      "Dadar"
+    ]
+  },
+  {
+    "depot": "Kalwan",
+    "departureTimes": [
+      "10:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nandgaon",
+    "departureTimes": [
+      "07:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Baramati",
+    "departureTimes": [
+      "06:45"
+    ],
+    "via": [
+      "Nashik Mahamarg",
+      "Sinnar",
+      "Sangamner"
+    ]
+  },
+  {
+    "depot": "Shrigaonda",
+    "departureTimes": [
+      "07:35"
+    ],
+    "via": [
+      "Nashik Mahamarg",
+      "Sinnar",
+      "Sangamner"
+    ]
+  },
+  {
+    "depot": "Kopargaon",
+    "departureTimes": [
+      "07:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shirdi",
+    "departureTimes": [
+      "06:30",
+      "08:30",
+      "09:45",
+      "11:30",
+      "12:15",
+      "13:15",
+      "14:50"
+    ],
+    "via": [
+      "Nashik Mahamarg",
+      "Sinnar",
+      "Wavi"
+    ]
+  },
+  {
+    "depot": "Pune",
+    "departureTimes": [
+      "06:00",
+      "08:30",
+      "13:30",
+      "15:15"
+    ],
+    "via": [
+      "Nashik Mahamarg",
+      "Sinnar",
+      "Sangamner"
+    ]
+  },
+  {
+    "depot": "Satara Palus",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": [
+      "Nashik Mahamarg",
+      "Sinnar",
+      "Sangamner",
+      "Pune Shivaji Nagar Wakdewadi",
+      "Swargate"
+    ]
+  },
+  {
+    "depot": "Chatrapati Sambhaji Nagar",
+    "departureTimes": [
+      "07:00",
+      "08:00",
+      "10:45",
+      "12:30"
+    ],
+    "via": [
+      "Nashik CBS"
+    ]
+  },
+  {
+    "depot": "Lonar",
+    "departureTimes": [
+      "07:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chikhali",
+    "departureTimes": [
+      "08:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dhule",
+    "departureTimes": [
+      "09:15",
+      "13:00"
+    ],
+    "via": [
+      "Nashik CBS",
+      "Malegaon"
+    ]
+  },
+  {
+    "depot": "Bhusawal",
+    "departureTimes": [
+      "10:45",
+      "12:15",
+      "22:00"
+    ],
+    "via": [
+      "Nashik CBS",
+      "Malegaon",
+      "Dhule"
+    ]
+  },
+  {
+    "depot": "Yeola",
+    "departureTimes": [
+      "09:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Amalner",
+    "departureTimes": [
+      "10:15"
+    ],
+    "via": [
+      "Nashik CBS",
+      "Malegaon",
+      "Dhule"
+    ]
+  },
+  {
+    "depot": "Chalisgaon",
+    "departureTimes": [
+      "11:45",
+      "14:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Erandol",
+    "departureTimes": [
+      "09:45"
+    ],
+    "via": [
+      "Nashik CBS",
+      "Malegaon",
+      "Dhule"
+    ]
+  },
+  {
+    "depot": "Jalgaon",
+    "departureTimes": [
+      "09:00"
+    ],
+    "via": [
+      "Nashik CBS",
+      "Malegaon",
+      "Dhule"
+    ]
+  },
+  {
+    "depot": "Chopda",
+    "departureTimes": [
+      "12:00"
+    ],
+    "via": [
+      "Nashik CBS",
+      "Malegaon",
+      "Dhule"
+    ]
+  },
+  {
+    "depot": "Shirpur",
+    "departureTimes": [
+      "07:15",
+      "12:15"
+    ],
+    "via": [
+      "Nashik CBS",
+      "Malegaon",
+      "Dhule"
+    ]
+  },
+  {
+    "depot": "Shindkheda",
+    "departureTimes": [
+      "05:30"
+    ],
+    "via": [
+      "Nashik CBS",
+      "Malegaon",
+      "Dhule"
+    ]
+  },
+  {
+    "depot": "Dondaihca",
+    "departureTimes": [
+      "05:30",
+      "05:30",
+      "06:30"
+    ],
+    "via": [
+      "Nashik CBS",
+      "Malegaon",
+      "Dhule"
+    ]
+  },
+  {
+    "depot": "Shahada",
+    "departureTimes": [
+      "05:30",
+      "06:00",
+      "06:15",
+      "07:30",
+      "08:30",
+      "10:45",
+      "14:45"
+    ],
+    "via": [
+      "Nashik CBS",
+      "Malegaon",
+      "Dhule"
+    ]
+  },
+  {
+    "depot": "Parner",
+    "departureTimes": [
+      "06:15",
+      "07:00",
+      "07:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Akkalkuwa",
+    "departureTimes": [
+      "05:15",
+      "10:30"
+    ],
+    "via": [
+      "Nashik CBS",
+      "Satana",
+      "Sakri",
+      "Nandurbar"
+    ]
+  },
+  {
+    "depot": "Navapur",
+    "departureTimes": [
+      "06:30",
+      "07:00",
+      "07:30",
+      "08:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Silvassa - Gujarat",
+    "departureTimes": [
+      "06:30",
+      "06:45",
+      "10:45",
+      "12:45",
+      "14:45",
+      "15:45",
+      "17:30"
+    ],
+    "via": [
+      "Trimbakeshwar",
+      "Jawhar"
+    ]
+  },
+  {
+    "depot": "Thane",
+    "departureTimes": [
+      "13:45"
+    ],
+    "via": [
+      "Trimbakeshwar",
+      "Jawhar",
+      "Wada",
+      "Bhiwandi"
+    ]
+  },
+  {
+    "depot": "Safale",
+    "departureTimes": [
+      "12:45",
+      "13:15"
+    ],
+    "via": [
+      "Trimbakeshwar",
+      "Jawhar"
+    ]
+  },
+  {
+    "depot": "Jawhar Mokhada",
+    "departureTimes": [
+      "07:15",
+      "07:45",
+      "08:15",
+      "08:45",
+      "09:15",
+      "09:45",
+      "10:15",
+      "10:45",
+      "11:15",
+      "11:45",
+      "12:15",
+      "12:45",
+      "13:15",
+      "13:45",
+      "14:15",
+      "14:45",
+      "15:15",
+      "15:45",
+      "16:15",
+      "16:45"
+    ],
+    "via": [
+      "Trimbakeshwar",
+      "Jawhar"
+    ]
+  },
+  {
+    "depot": "Dahanu",
+    "departureTimes": [
+      "07:15",
+      "09:15",
+      "13:30",
+      "14:45",
+      "15:45"
+    ],
+    "via": [
+      "Trimbakeshwar",
+      "Jawhar"
+    ]
+  },
+  {
+    "depot": "Palghar",
+    "departureTimes": [
+      "06:40",
+      "09:15",
+      "12:00",
+      "13:15",
+      "14:45",
+      "16:00"
+    ],
+    "via": [
+      "Trimbakeshwar",
+      "Jawhar"
+    ]
+  },
+  {
+    "depot": "Boisar",
+    "departureTimes": [
+      "08:15",
+      "10:15",
+      "13:00",
+      "13:45",
+      "14:20"
+    ],
+    "via": [
+      "Trimbakeshwar",
+      "Jawhar"
+    ]
+  },
+  {
+    "depot": "Wada Khodala",
+    "departureTimes": [
+      "13:00",
+      "15:00",
+      "17:45"
+    ],
+    "via": [
+      "Trimbakeshwar"
+    ]
+  },
+  {
+    "depot": "Nandurbar",
+    "departureTimes": [
+      "06:00",
+      "06:30",
+      "07:00",
+      "07:30",
+      "08:00",
+      "11:00"
+    ],
+    "via": [
+      "Nashik Mela Stand",
+      "Satana",
+      "Sakri"
+    ]
+  },
+  {
+    "depot": "Parli Vaijnath",
+    "departureTimes": [
+      "06:15",
+      "07:00",
+      "07:45"
+    ],
+    "via": [
+      "Nashik Mahamarg",
+      "Sinnar",
+      "Sangamner",
+      "Ahiyanagar"
+    ]
+  },
+  {
+    "depot": "Nashik Road Railway Station",
+    "departureTimes": [
+      "19:45",
+      "21:35"
+    ],
+    "via": []
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "depot": "Amalner",
+    "departureTimes": [
+      "16:30"
+    ],
+    "via": [
+      "Dhule"
+    ]
+  },
+  {
+    "depot": "Chalisgaon",
+    "departureTimes": [
+      "09:20"
+    ],
+    "via": [
+      "Dhule"
+    ]
+  },
+  {
+    "depot": "Chatrapati Sambhaji Nagar (Aurangabad)",
+    "departureTimes": [
+      "06:00"
+    ],
+    "via": [
+      "Chatrapati Sambhaji Nagar Aurangabad",
+      "Songad",
+      "Navapur",
+      "Sakri",
+      "Dhule",
+      "Kannad",
+      "Ghrushneshwar Jyotirling",
+      "Ellora Caves"
+    ]
+  },
+  {
+    "depot": "Dhule",
+    "departureTimes": [
+      "10:00",
+      "11:15",
+      "12:30",
+      "15:45"
+    ],
+    "via": [
+      "Ner",
+      "Anandkheda"
+    ]
+  },
+  {
+    "depot": "Malegaon",
+    "departureTimes": [
+      "13:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nashik",
+    "departureTimes": [
+      "08:25"
+    ],
+    "via": [
+      "Navsari",
+      "Billimora",
+      "Vaghai"
+    ]
+  },
+  {
+    "depot": "Pune - Shivaji Nagar Wakdewadi",
+    "departureTimes": [
+      "07:30"
+    ],
+    "via": [
+      "Navsari",
+      "Billimora",
+      "Vaghai",
+      "Nashik",
+      "Sinnar",
+      "Sangamner",
+      "Rajgurunagar",
+      "Chakan",
+      "Bhosari",
+      "Nashik Fata"
+    ]
+  },
+  {
+    "depot": "Udhana to Ahmednagar",
+    "departureTimes": [
+      "07:30"
+    ],
+    "via": [
+      "Shirdi",
+      "Tarakpur"
+    ]
+  },
+  {
+    "depot": "Udhana to Shrirampur",
+    "departureTimes": [
+      "06:15"
+    ],
+    "via": [
+      "Shirdi",
+      "Babhaleshwar"
+    ]
+  }
+]

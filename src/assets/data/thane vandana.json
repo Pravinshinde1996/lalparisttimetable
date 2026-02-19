@@ -1,0 +1,910 @@
+[
+  {
+    "depot": "Swargate - Shivneri AC",
+    "departureTimes": [
+      "05:00",
+      "05:30",
+      "06:00",
+      "06:30",
+      "07:00",
+      "08:00",
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:30",
+      "12:00",
+      "12:30",
+      "13:00",
+      "13:30",
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30",
+      "18:00",
+      "19:00",
+      "20:30",
+      "21:00",
+      "22:00",
+      "22:30"
+    ],
+    "via": [
+      "Kalwa",
+      "Vitawa",
+      "Capgimini",
+      "Rabale",
+      "Nerul",
+      "Kharghar",
+      "Kalamboli Highway",
+      "Wakad Naka",
+      "Hinjwadi",
+      "Chandani Chawk",
+      "Vanaj"
+    ]
+  },
+  {
+    "depot": "Swargate - Hirkani",
+    "departureTimes": [
+      "06:15",
+      "21:15"
+    ],
+    "via": [
+      "Kalwa",
+      "Vitawa",
+      "Capgimini",
+      "Rabale",
+      "Nerul",
+      "Kharghar",
+      "Kalamboli Highway",
+      "Wakad Naka",
+      "Hinjwadi",
+      "Chandani Chawk",
+      "Vanaj"
+    ]
+  },
+  {
+    "depot": "Ahmadpur - Sleeper",
+    "departureTimes": [
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Akkalkot",
+    "departureTimes": [
+      "16:30"
+    ],
+    "via": [
+      "Panvel",
+      "Swargate Pune",
+      "Hadapsar",
+      "Indapur",
+      "Tembhurni",
+      "Mohol",
+      "Solapur"
+    ]
+  },
+  {
+    "depot": "Arnala to Pandharpur",
+    "departureTimes": [
+      "09:30"
+    ],
+    "via": [
+      "Panvel",
+      "Lonavala",
+      "Chinchwad",
+      "Vallabh nagar",
+      "Swargate Pune",
+      "Saswad",
+      "Jejuri",
+      "Nira",
+      "Lonand",
+      "Phaltan",
+      "Barad",
+      "Natepute",
+      "Malshiras",
+      "Pandharpur"
+    ]
+  },
+  {
+    "depot": "Arnala to Swargate",
+    "departureTimes": [
+      "10:30",
+      "14:45"
+    ],
+    "via": [
+      "Panvel",
+      "Pimpri Chinchwad",
+      "Swargate Pune"
+    ]
+  },
+  {
+    "depot": "Baramati",
+    "departureTimes": [
+      "13:30"
+    ],
+    "via": [
+      "Wakad",
+      "Swargate Pune"
+    ]
+  },
+  {
+    "depot": "Phaltan",
+    "departureTimes": [
+      "22:30"
+    ],
+    "via": [
+      "Panvel",
+      "Swargate Pune",
+      "Saswad",
+      "Jejuri",
+      "Nira",
+      "Lonand"
+    ]
+  },
+  {
+    "depot": "Belgaon",
+    "departureTimes": [
+      "06:00",
+      "19:00"
+    ],
+    "via": [
+      "Panvel",
+      "Hinjwadi Fata",
+      "Chandani Chowk",
+      "Vanaj",
+      "Katraj Bypass",
+      "Satara",
+      "Karad",
+      "Kolhapur",
+      "Kagal",
+      "Nippani",
+      "Sankeshwar",
+      "Hattargi"
+    ]
+  },
+  {
+    "depot": "Bhayandar to Kawthe Mahankal (Kavthe Mahakal)",
+    "departureTimes": [
+      "08:00"
+    ],
+    "via": [
+      "Bhayandar to Kawthe Mahankal Kavthe Mahakal",
+      "Panvel",
+      "Lonavala",
+      "Swargate Pune",
+      "Bhuinj",
+      "Pachwad",
+      "Satara",
+      "Kashil",
+      "Umbraj",
+      "Karad",
+      "Kadegaon",
+      "Vita",
+      "Khanapur"
+    ]
+  },
+  {
+    "depot": "Bhiwandi to Kadepur",
+    "departureTimes": [
+      "06:15"
+    ],
+    "via": [
+      "Panvel",
+      "Lonavala",
+      "Swargate Pune",
+      "Bhuinj",
+      "Pachwad",
+      "Satara",
+      "Kashil",
+      "Umbraj",
+      "Karad"
+    ]
+  },
+  {
+    "depot": "Boisar to Gondawale (Gondvale)",
+    "departureTimes": [
+      "10:00"
+    ],
+    "via": [
+      "Boisar to Gondawale Gondvale",
+      "Panvel",
+      "Lonavala",
+      "Chandani Chowk",
+      "Swargate Pune",
+      "Saswad",
+      "Jejuri",
+      "Valha",
+      "Nira",
+      "Lonand",
+      "Phaltan",
+      "Bijwadi",
+      "Vadgaon",
+      "Dahivadi",
+      "Dahiwadi"
+    ]
+  },
+  {
+    "depot": "Boisar to Pune",
+    "departureTimes": [
+      "16:15"
+    ],
+    "via": [
+      "Swargate",
+      "Pune Via Pimpri Chinchwad"
+    ]
+  },
+  {
+    "depot": "Boisar to Swargate",
+    "departureTimes": [
+      "16:00"
+    ],
+    "via": [
+      "Swargate",
+      "Pune Via Pimpri Chinchwad"
+    ]
+  },
+  {
+    "depot": "Bhoom",
+    "departureTimes": [
+      "06:45"
+    ],
+    "via": [
+      "Panvel",
+      "Nigadi",
+      "Chinchwad",
+      "Swargate Pune",
+      "Urali Kanchan",
+      "Kurkumbh",
+      "Rashin",
+      "Karmala",
+      "Paranda",
+      "Ashta"
+    ]
+  },
+  {
+    "depot": "Borivali to Kalamb",
+    "departureTimes": [
+      "18:30"
+    ],
+    "via": [
+      "Panvel",
+      "Swargate Pune",
+      "Indapur",
+      "Barshi",
+      "Yelrmala"
+    ]
+  },
+  {
+    "depot": "Borivali to Mangalvedha",
+    "departureTimes": [
+      "06:30"
+    ],
+    "via": [
+      "Panvel",
+      "Khopoli",
+      "Lonavala",
+      "Nigadi",
+      "Chinchwad",
+      "Swargate Pune",
+      "Saswad",
+      "Jejuri",
+      "Nira",
+      "Lonand",
+      "Phaltan",
+      "Natepute",
+      "Malshiras",
+      "Pandharpur"
+    ]
+  },
+  {
+    "depot": "Miraj",
+    "departureTimes": [
+      "07:25",
+      "06:45",
+      "20:00"
+    ],
+    "via": [
+      "Panvel",
+      "Lonavala",
+      "Swargate Pune",
+      "Bhuinj",
+      "Pachwad",
+      "Satara",
+      "Kashil",
+      "Karad",
+      "Kasegaon",
+      "Islampur",
+      "Sangli"
+    ]
+  },
+  {
+    "depot": "Borivali to Satara",
+    "departureTimes": [
+      "00:30",
+      "06:30",
+      "07:30",
+      "08:45",
+      "09:30",
+      "11:30",
+      "14:00",
+      "17:00",
+      "19:30"
+    ],
+    "via": [
+      "Panvel",
+      "Wakad Naka",
+      "Chandani Chowk",
+      "Bhuinj",
+      "Pachwad",
+      "Satara"
+    ]
+  },
+  {
+    "depot": "Borivali to Tasgaon",
+    "departureTimes": [
+      "08:15"
+    ],
+    "via": [
+      "Swargate",
+      "Pune"
+    ]
+  },
+  {
+    "depot": "Dahanu Boisar to Satara",
+    "departureTimes": [
+      "11:15"
+    ],
+    "via": [
+      "Panvel",
+      "Swargate Pune",
+      "Pachwad"
+    ]
+  },
+  {
+    "depot": "Dahanu to Satara via Pimpri Chinchwad",
+    "departureTimes": [
+      "10:30"
+    ],
+    "via": [
+      "Dahanu to Satara",
+      "Pimpri Chinchwad",
+      "Panvel",
+      "Chinchwad",
+      "Swargate Pune",
+      "Pachwad"
+    ]
+  },
+  {
+    "depot": "Dahivadi via Phaltan",
+    "departureTimes": [
+      "06:00"
+    ],
+    "via": [
+      "Dahivadi",
+      "Phaltan",
+      "Panvel",
+      "Swargate Pune",
+      "Saswad",
+      "Jejuri",
+      "Nira",
+      "Lonand",
+      "Vadgaon"
+    ]
+  },
+  {
+    "depot": "Dharashiv (Osmanabad)",
+    "departureTimes": [
+      "05:45",
+      "07:15",
+      "10:00"
+    ],
+    "via": [
+      "Dharashiv Osmanabad",
+      "Panvel",
+      "Chandani Chowk",
+      "Swargate Pune",
+      "Urali Kanchan",
+      "Yavat",
+      "Kurkumbh",
+      "Bhigvan",
+      "Indapur",
+      "Tembhurni",
+      "Kurduwadi",
+      "Karmala",
+      "Barshi"
+    ]
+  },
+  {
+    "depot": "Hyderabad",
+    "departureTimes": [
+      "17:30"
+    ],
+    "via": [
+      "Pune"
+    ]
+  },
+  {
+    "depot": "Karad",
+    "departureTimes": [
+      "07:30",
+      "09:00"
+    ],
+    "via": [
+      "Panvel",
+      "Chandani Chowk",
+      "Katraj Bypass",
+      "Shirwal",
+      "Pargaon Khandala",
+      "Bhuinj",
+      "Pachwad",
+      "Satara",
+      "Kashil",
+      "Umbraj"
+    ]
+  },
+  {
+    "depot": "Karad (Shivshahi AC)",
+    "departureTimes": [
+      "11:00",
+      "21:00"
+    ],
+    "via": [
+      "Karad Shivshahi AC",
+      "Panvel",
+      "Chandani Chowk",
+      "Katraj Bypass",
+      "Shirwal",
+      "Pargaon Khandala",
+      "Bhuinj",
+      "Pachwad",
+      "Satara",
+      "Kashil",
+      "Umbraj"
+    ]
+  },
+  {
+    "depot": "Kolhapur",
+    "departureTimes": [
+      "22:00"
+    ],
+    "via": [
+      "Panvel",
+      "Swargate Pune",
+      "Pachwad",
+      "Satara",
+      "Umbraj",
+      "Karad"
+    ]
+  },
+  {
+    "depot": "Kolhapur, Chandgad - Sleeper",
+    "departureTimes": [
+      "21:30"
+    ],
+    "via": [
+      "Panvel",
+      "Swargate Pune",
+      "Pachwad",
+      "Satara",
+      "Umbraj",
+      "Karad"
+    ]
+  },
+  {
+    "depot": "Kolhapur Shivshahi",
+    "departureTimes": [
+      "05:15",
+      "09:15",
+      "10:45",
+      "18:30",
+      "22:30"
+    ],
+    "via": [
+      "Panvel",
+      "Swargate Pune",
+      "Pachwad",
+      "Satara",
+      "Umbraj",
+      "Karad"
+    ]
+  },
+  {
+    "depot": "Makani More Info",
+    "departureTimes": [
+      "07:00",
+      "11:45",
+      "05:20",
+      "06:20",
+      "08:00",
+      "08:30"
+    ],
+    "via": [
+      "Swargate Pune",
+      "Indapur",
+      "Solapur",
+      "Tuljapur",
+      "Lohara"
+    ]
+  },
+  {
+    "depot": "Mukhed",
+    "departureTimes": [
+      "15:00"
+    ],
+    "via": [
+      "Panvel",
+      "Lonavala",
+      "Chinchwad",
+      "Vallabh nagar",
+      "Swargate Pune",
+      "Yavat",
+      "Kurkumbh",
+      "Indapur",
+      "Tembhurni",
+      "Kurduwadi",
+      "Yedshi",
+      "Shirur Tajband",
+      "Jamb",
+      "Savargaon"
+    ]
+  },
+  {
+    "depot": "Nalasopara to Latur",
+    "departureTimes": [
+      "07:00",
+      "08:00"
+    ],
+    "via": [
+      "Panvel",
+      "Lonavala",
+      "Chinchwad",
+      "Vallabh nagar",
+      "Swargate Pune",
+      "Yavat",
+      "Kurkumbh",
+      "Indapur",
+      "Tembhurni",
+      "Kurduwadi",
+      "Yedshi"
+    ]
+  },
+  {
+    "depot": "Nalasopara to Pune",
+    "departureTimes": [
+      "17:30"
+    ],
+    "via": [
+      "Swargate",
+      "Pune Via Pimpri Chinchwad"
+    ]
+  },
+  {
+    "depot": "Nalasopara to Sangola",
+    "departureTimes": [
+      "08:00"
+    ],
+    "via": [
+      "Panvel",
+      "Lonavala",
+      "Chinchwad",
+      "Vallabh nagar",
+      "Swargate Pune",
+      "Saswad",
+      "Jejuri",
+      "Nira",
+      "Lonand",
+      "Phaltan",
+      "Barad",
+      "Natepute",
+      "Malshiras",
+      "Pandharpur"
+    ]
+  },
+  {
+    "depot": "Palghar To Swargate",
+    "departureTimes": [
+      "12:00",
+      "13:15",
+      "16:05",
+      "18:30"
+    ],
+    "via": [
+      "Swargate",
+      "Pune Via Pimpri Chinchwad"
+    ]
+  },
+  {
+    "depot": "Pandharpur",
+    "departureTimes": [
+      "05:15",
+      "06:00",
+      "07:00",
+      "07:15",
+      "08:00",
+      "20:30",
+      "21:00",
+      "21:15"
+    ],
+    "via": [
+      "Panvel",
+      "Swargate Pune",
+      "Saswad",
+      "Jejuri",
+      "Nira",
+      "Lonand",
+      "Phaltan",
+      "Barad",
+      "Natepute",
+      "Malshiras"
+    ]
+  },
+  {
+    "depot": "Shahapur to Pandharpur",
+    "departureTimes": [
+      "09:00"
+    ],
+    "via": [
+      "Panvel",
+      "Lonavala",
+      "Chinchwad",
+      "Vallabh nagar",
+      "Swargate Pune",
+      "Saswad",
+      "Jejuri",
+      "Nira",
+      "Lonand",
+      "Phaltan",
+      "Barad",
+      "Natepute",
+      "Malshiras"
+    ]
+  },
+  {
+    "depot": "Solapur",
+    "departureTimes": [
+      "06:00",
+      "07:00",
+      "15:00",
+      "18:00"
+    ],
+    "via": [
+      "Panvel",
+      "Swargate Pune",
+      "Yavat",
+      "Kurkumbh",
+      "Indapur",
+      "Tembhurni",
+      "Mohol"
+    ]
+  },
+  {
+    "depot": "Tuljapur via Barshi",
+    "departureTimes": [
+      "06:30"
+    ],
+    "via": [
+      "Tuljapur",
+      "Barshi",
+      "Panvel",
+      "Swargate Pune",
+      "Hadapsar",
+      "Indapur",
+      "Kurduwadi",
+      "Gaudgaon"
+    ]
+  },
+  {
+    "depot": "Tuljapur via Solapur",
+    "departureTimes": [
+      "07:25",
+      "15:30",
+      "19:15"
+    ],
+    "via": [
+      "Tuljapur",
+      "Solapur",
+      "Panvel",
+      "Swargate Pune",
+      "Hadapsar",
+      "Indapur",
+      "Tembhurni",
+      "Mohol"
+    ]
+  },
+  {
+    "depot": "Umarga",
+    "departureTimes": [
+      "06:15",
+      "07:45",
+      "09:30",
+      "17:45",
+      "18:30",
+      "21:00"
+    ],
+    "via": [
+      "Panvel",
+      "Swargate Pune",
+      "Yavat",
+      "Kurkumbh",
+      "Indapur",
+      "Tembhurni",
+      "Mohol",
+      "Solapur",
+      "Naldurg",
+      "Asta",
+      "Ume"
+    ]
+  },
+  {
+    "depot": "Vaduj via Koregaon",
+    "departureTimes": [
+      "06:45",
+      "21:30"
+    ],
+    "via": [
+      "Vaduj",
+      "Koregaon",
+      "Panvel",
+      "Chandani Chowk",
+      "Kapurhol",
+      "Shirwal",
+      "Satara",
+      "Pusegaon",
+      "Khatav"
+    ]
+  },
+  {
+    "depot": "Vaduj (Hirkani)",
+    "departureTimes": [
+      "10:45"
+    ],
+    "via": [
+      "Vaduj Hirkani",
+      "Panvel",
+      "Chandani Chowk",
+      "Kapurhol",
+      "Shirwal",
+      "Satara",
+      "Koregaon",
+      "Pusegaon",
+      "Khatav"
+    ]
+  },
+  {
+    "depot": "Mhaswad via Satara",
+    "departureTimes": [
+      "07:15"
+    ],
+    "via": [
+      "Mhaswad",
+      "Satara",
+      "Panvel",
+      "Swargate Pune",
+      "Koregaon",
+      "Pusegaon",
+      "Vaduj"
+    ]
+  },
+  {
+    "depot": "Mhaswad via Phaltan",
+    "departureTimes": [
+      "20:00"
+    ],
+    "via": [
+      "Mhaswad",
+      "Phaltan",
+      "Panvel",
+      "Swargate Pune",
+      "Saswad",
+      "Jejuri",
+      "Lonand",
+      "Phatan",
+      "Jawali",
+      "Shikhar Shingnapur",
+      "Varkute Budruk"
+    ]
+  },
+  {
+    "depot": "Vasai To Swargate",
+    "departureTimes": [
+      "09:30"
+    ],
+    "via": [
+      "Swargate",
+      "Pune Via Pimpri Chinchwad"
+    ]
+  },
+  {
+    "depot": "Vita (Shivshahi)",
+    "departureTimes": [
+      "09:15",
+      "21:00"
+    ],
+    "via": [
+      "Vita Shivshahi",
+      "Panvel",
+      "Chandani Chowk",
+      "Kapurhol",
+      "Shirwal",
+      "Satara",
+      "Kashil",
+      "Umbraj",
+      "Kadepur"
+    ]
+  },
+  {
+    "depot": "Narsobawadi - Sleeper Seater",
+    "departureTimes": [
+      "20:10"
+    ],
+    "via": [
+      "Panvel",
+      "Swargate Pune",
+      "Pachwad",
+      "Satara",
+      "Umbraj",
+      "Karad",
+      "Peth Naka",
+      "Islampur",
+      "Sangli",
+      "Jaisingpur"
+    ]
+  },
+  {
+    "depot": "Murgud via Kolhapur",
+    "departureTimes": [
+      "21:00"
+    ],
+    "via": [
+      "Murgud",
+      "Kolhapur",
+      "Panvel",
+      "Swargate Pune",
+      "Pachwad",
+      "Satara",
+      "Umbraj",
+      "Karad",
+      "Peth Naka",
+      "Admapur"
+    ]
+  },
+  {
+    "depot": "Jat",
+    "departureTimes": [
+      "07:30"
+    ],
+    "via": [
+      "Panvel",
+      "Swargate Pune",
+      "Saswad",
+      "Jejuri",
+      "Lonand",
+      "Phatan",
+      "Barad",
+      "Natepute",
+      "Malshiras",
+      "Velapur",
+      "Pandharpur",
+      "Sangola"
+    ]
+  },
+  {
+    "depot": "Ambajogai",
+    "departureTimes": [
+      "05:00"
+    ],
+    "via": [
+      "Panvel",
+      "Swargate Pune",
+      "Indapur",
+      "Barshi",
+      "Yelrmala",
+      "Kalamb"
+    ]
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "depot": "Alibag",
+    "departureTimes": [
+      "06:00",
+      "07:15",
+      "09:30",
+      "11:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Barshiv",
+    "departureTimes": [
+      "08:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bhandup",
+    "departureTimes": [
+      "07:00"
+    ],
+    "via": [
+      "Alibag",
+      "Panvel",
+      "Nerul",
+      "Turbhe",
+      "Kalwa",
+      "Thane"
+    ]
+  },
+  {
+    "depot": "Bhonang",
+    "departureTimes": [
+      "12:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Borivali (Mumbai)",
+    "departureTimes": [
+      "08:15",
+      "12:00",
+      "12:30",
+      "15:00",
+      "16:00"
+    ],
+    "via": [
+      "Borivali Mumbai",
+      "Alibag",
+      "Panvel",
+      "Sion",
+      "Bandra",
+      "Domestic Airport Mumbai",
+      "Goregaon",
+      "Kandivali"
+    ]
+  },
+  {
+    "depot": "Borli",
+    "departureTimes": [
+      "19:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Choul",
+    "departureTimes": [
+      "06:45",
+      "07:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dhule",
+    "departureTimes": [
+      "06:15"
+    ],
+    "via": [
+      "Alibag",
+      "Panvel",
+      "Dombivali",
+      "Kalyan",
+      "Bhiwandi",
+      "Shahapur",
+      "Nashik CBS",
+      "Malegaon"
+    ]
+  },
+  {
+    "depot": "Kalyan",
+    "departureTimes": [
+      "13:30",
+      "15:30"
+    ],
+    "via": [
+      "Alibag",
+      "Panvel",
+      "Dombivali"
+    ]
+  },
+  {
+    "depot": "Karjat",
+    "departureTimes": [
+      "14:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mahad",
+    "departureTimes": [
+      "07:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mahajane",
+    "departureTimes": [
+      "12:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mulund",
+    "departureTimes": [
+      "17:30"
+    ],
+    "via": [
+      "Alibag",
+      "Panvel",
+      "Nerul",
+      "Turbhe",
+      "Kalwa",
+      "Thane"
+    ]
+  },
+  {
+    "depot": "Mumbai Central",
+    "departureTimes": [
+      "05:45",
+      "06:00",
+      "07:30",
+      "09:30",
+      "11:00",
+      "14:00",
+      "16:30",
+      "18:00",
+      "20:30",
+      "24:00"
+    ],
+    "via": [
+      "Alibag",
+      "Panvel",
+      "Vashi",
+      "Sion",
+      "Dadar"
+    ]
+  },
+  {
+    "depot": "Panvel",
+    "departureTimes": [
+      "14:30"
+    ],
+    "via": [
+      "Alibag"
+    ]
+  },
+  {
+    "depot": "Roha",
+    "departureTimes": [
+      "06:00",
+      "06:45",
+      "08:45",
+      "09:20",
+      "11:30",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:30",
+      "18:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shirdi",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": [
+      "Alibag",
+      "Panvel",
+      "Dombivali",
+      "Kalyan",
+      "Bhiwandi",
+      "Shahapur",
+      "Nashik",
+      "Sinnar",
+      "Vavi"
+    ]
+  },
+  {
+    "depot": "Sudkoli",
+    "departureTimes": [
+      "12:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Swargate (Pune)",
+    "departureTimes": [
+      "08:00",
+      "15:15"
+    ],
+    "via": [
+      "Swargate Pune",
+      "Alibag",
+      "Poynad",
+      "Pen",
+      "Khopoli",
+      "Lonavala"
+    ]
+  },
+  {
+    "depot": "Thane",
+    "departureTimes": [
+      "06:30"
+    ],
+    "via": [
+      "Alibag",
+      "Panvel",
+      "Nerul",
+      "Turbhe",
+      "Kalwa"
+    ]
+  },
+  {
+    "depot": "Vashi",
+    "departureTimes": [
+      "05:00"
+    ],
+    "via": [
+      "Alibag",
+      "Panvel",
+      "Nerul"
+    ]
+  }
+]

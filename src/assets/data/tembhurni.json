@@ -1,0 +1,418 @@
+[
+  {
+    "depot": "Mumbai",
+    "departureTimes": [
+      "05:35",
+      "07:15",
+      "07:15",
+      "14:45",
+      "19:15",
+      "19:45",
+      "20:00",
+      "20:00",
+      "20:00",
+      "20:35",
+      "20:35",
+      "23:30",
+      "23:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Alibag",
+    "departureTimes": [
+      "10:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Roha",
+    "departureTimes": [
+      "12:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Borivali",
+    "departureTimes": [
+      "07:45",
+      "09:00",
+      "09:30",
+      "10:15",
+      "11:00",
+      "11:30",
+      "20:20",
+      "21:10"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Arnala via Borivali",
+    "departureTimes": [
+      "11:15",
+      "19:30"
+    ],
+    "via": [
+      "Arnala",
+      "Borivali"
+    ]
+  },
+  {
+    "depot": "Kalyan",
+    "departureTimes": [
+      "11:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Thane",
+    "departureTimes": [
+      "12:30",
+      "20:30",
+      "21:30",
+      "22:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bhiwandi",
+    "departureTimes": [
+      "11:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pune",
+    "departureTimes": [
+      "07:45",
+      "08:15",
+      "08:45",
+      "09:15",
+      "09:45",
+      "10:15",
+      "10:45",
+      "11:15",
+      "11:45",
+      "12:15",
+      "12:45",
+      "13:15",
+      "13:45",
+      "14:15",
+      "14:45",
+      "15:15",
+      "15:45",
+      "16:15",
+      "16:45",
+      "17:15",
+      "17:45",
+      "18:15",
+      "18:45",
+      "19:15",
+      "19:45",
+      "20:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Baramati",
+    "departureTimes": [
+      "08:45",
+      "10:00",
+      "11:00",
+      "14:00",
+      "15:00",
+      "15:30",
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Satara",
+    "departureTimes": [
+      "08:15",
+      "11:00",
+      "15:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Akkalkot",
+    "departureTimes": [
+      "08:45",
+      "09:30",
+      "10:00",
+      "11:00",
+      "11:30",
+      "13:15",
+      "13:45",
+      "14:30",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "18:00",
+      "19:00",
+      "20:30",
+      "20:30",
+      "23:00",
+      "23:05",
+      "23:35"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Gangapur",
+    "departureTimes": [
+      "11:30"
+    ],
+    "via": [
+      "Solapur",
+      "Akkalkot"
+    ]
+  },
+  {
+    "depot": "Gulbarga",
+    "departureTimes": [
+      "13:00"
+    ],
+    "via": [
+      "Solapur",
+      "Akkalkot"
+    ]
+  },
+  {
+    "depot": "Vijapur",
+    "departureTimes": [
+      "06:35"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bidar",
+    "departureTimes": [
+      "10:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Umarga",
+    "departureTimes": [
+      "14:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Hyderabad",
+    "departureTimes": [
+      "12:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Latur",
+    "departureTimes": [
+      "03:30",
+      "04:30",
+      "09:00",
+      "11:30",
+      "13:00",
+      "16:00",
+      "17:00",
+      "18:00",
+      "19:30",
+      "20:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nanded",
+    "departureTimes": [
+      "12:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Hadgaon",
+    "departureTimes": [
+      "07:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ausa",
+    "departureTimes": [
+      "13:30",
+      "14:30",
+      "18:30",
+      "19:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nilanga",
+    "departureTimes": [
+      "02:30",
+      "13:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Udgir",
+    "departureTimes": [
+      "03:00",
+      "03:30",
+      "04:30",
+      "10:00",
+      "11:30",
+      "14:30",
+      "21:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Barshi",
+    "departureTimes": [
+      "10:00",
+      "11:15",
+      "13:00",
+      "13:30",
+      "14:30",
+      "15:00",
+      "16:30",
+      "17:00",
+      "18:00",
+      "19:00",
+      "20:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kurduwadi",
+    "departureTimes": [
+      "06:45",
+      "07:45",
+      "08:15",
+      "09:15",
+      "10:30",
+      "10:45",
+      "11:45",
+      "12:15",
+      "12:30",
+      "13:15",
+      "14:30",
+      "16:45",
+      "18:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kalamb",
+    "departureTimes": [
+      "10:00",
+      "12:30",
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vasmat",
+    "departureTimes": [
+      "02:30",
+      "09:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dharur",
+    "departureTimes": [
+      "03:00",
+      "13:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ahamadpur",
+    "departureTimes": [
+      "13:45",
+      "14:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dharashiv",
+    "departureTimes": [
+      "05:30",
+      "10:00",
+      "12:30",
+      "14:30",
+      "15:30",
+      "16:00",
+      "18:00",
+      "19:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vairag",
+    "departureTimes": [
+      "15:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nashik",
+    "departureTimes": [
+      "08:00",
+      "10:30",
+      "10:30",
+      "11:15",
+      "11:30",
+      "12:00",
+      "22:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shirdi",
+    "departureTimes": [
+      "06:45",
+      "13:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kopargaon via Shirdi",
+    "departureTimes": [
+      "10:00"
+    ],
+    "via": [
+      "Kopargaon",
+      "Shirdi"
+    ]
+  },
+  {
+    "depot": "Dhule",
+    "departureTimes": [
+      "08:15",
+      "19:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nandurbar",
+    "departureTimes": [
+      "09:00",
+      "19:00",
+      "21:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shrirampur",
+    "departureTimes": [
+      "06:30",
+      "13:15"
+    ],
+    "via": []
+  }
+]

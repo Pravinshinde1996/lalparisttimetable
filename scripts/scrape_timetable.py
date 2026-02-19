@@ -24,9 +24,9 @@ import requests
 from bs4 import BeautifulSoup
 
 # ------------------------ Configuration ------------------------
-URL = "https://stbustimetable.in/radhanagari-bus-stand-time-table-kolhapur-ticket-price/"
+URL = "https://stbustimetable.in/yeola-bus-stand-time-table-contact-number-msrtc-photos/"
 # write directly into the project's assets folder so the Angular app can load it
-OUTPUT_FILE = "src/assets/data/radhanagari.json"
+OUTPUT_FILE = "src/assets/data/yeola.json"
 PRETTY = True  # pretty-print JSON
 TIME_RE = re.compile(r"\b\d{1,2}:\d{2}\b")
 # ----------------------------------------------------------------

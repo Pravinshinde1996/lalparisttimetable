@@ -1,0 +1,498 @@
+[
+  {
+    "depot": "Borivali",
+    "departureTimes": [
+      "06:00"
+    ],
+    "via": [
+      "Dhule",
+      "Malegaon",
+      "Nashik Mahamarg",
+      "Shahapur",
+      "Bhiwandi",
+      "Kalyan Bypass",
+      "MajiwadaThane",
+      "Kashimira"
+    ]
+  },
+  {
+    "depot": "Pimpri Chinchwad Pune via Ahmednagar",
+    "departureTimes": [
+      "07:00",
+      "09:15"
+    ],
+    "via": [
+      "Pimpri Chinchwad Pune",
+      "Ahmednagar",
+      "Dhule",
+      "Malegaon",
+      "Manmad",
+      "Yeola",
+      "Kopargaon",
+      "Shirdi",
+      "Rahata",
+      "Babhaleshwar",
+      "Kolhar",
+      "Shirur",
+      "Ranjangaon",
+      "New Shivaji Nagar Wakdewadi Pune"
+    ]
+  },
+  {
+    "depot": "Pimpri Chinchwad Pune via Sangamner",
+    "departureTimes": [
+      "07:30"
+    ],
+    "via": [
+      "Pimpri Chinchwad Pune",
+      "Sangamner",
+      "Dhule",
+      "Malegaon",
+      "Manmad",
+      "Yeola",
+      "Kopargaon",
+      "Shirdi",
+      "Rahata",
+      "Babhaleshwar",
+      "Loni",
+      "Alephata",
+      "Narayangaon",
+      "Manchar",
+      "Rajgurunagar",
+      "Chakan",
+      "Bhosari",
+      "Nashik Fata",
+      "New Shivaji Nagar Wakdewadi Pune"
+    ]
+  },
+  {
+    "depot": "Nashik",
+    "departureTimes": [
+      "07:00",
+      "07:45",
+      "09:00",
+      "11:00",
+      "13:00"
+    ],
+    "via": [
+      "Songir Fata",
+      "Dhule",
+      "Malegaon",
+      "Chandvad"
+    ]
+  },
+  {
+    "depot": "Vapi",
+    "departureTimes": [
+      "08:30",
+      "09:30",
+      "10:40",
+      "19:30"
+    ],
+    "via": [
+      "Dondaicha",
+      "Nandurbar",
+      "Navapur",
+      "Songad",
+      "Vyara",
+      "Bardoli",
+      "Navsari",
+      "Valsad"
+    ]
+  },
+  {
+    "depot": "Chatrapati Sambhaji Nagar (Aurangabad)",
+    "departureTimes": [
+      "07:30",
+      "16:00"
+    ],
+    "via": [
+      "Chatrapati Sambhaji Nagar Aurangabad",
+      "Dhule",
+      "Kannad",
+      "Ghrushneshwar Temple",
+      "Ellora Caves"
+    ]
+  },
+  {
+    "depot": "Akola",
+    "departureTimes": [
+      "10:30"
+    ],
+    "via": [
+      "Shirpur",
+      "Chopda",
+      "Dhanora",
+      "Yawal",
+      "Mutainagar",
+      "Malkapur",
+      "Nandura",
+      "Khamgaon",
+      "Balapur"
+    ]
+  },
+  {
+    "depot": "Surat (Udhana)",
+    "departureTimes": [
+      "07:30",
+      "08:00",
+      "09:00",
+      "11:30",
+      "14:30"
+    ],
+    "via": [
+      "Surat Udhana",
+      "Dondaicha",
+      "Nandurbar",
+      "Navapur",
+      "Songad",
+      "Vyara",
+      "Bardoli"
+    ]
+  },
+  {
+    "depot": "Dhule via Gorane",
+    "departureTimes": [
+      "06:30",
+      "07:00",
+      "07:30",
+      "08:00",
+      "08:30",
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30",
+      "13:00",
+      "13:30",
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30",
+      "18:00",
+      "18:30",
+      "19:00",
+      "19:30"
+    ],
+    "via": [
+      "Dhule",
+      "Gorane"
+    ]
+  },
+  {
+    "depot": "Dhule via Vaypur",
+    "departureTimes": [
+      "07:00",
+      "12:00"
+    ],
+    "via": [
+      "Dhule",
+      "Vaypur"
+    ]
+  },
+  {
+    "depot": "Sonewadi (Akkadase)",
+    "departureTimes": [
+      "06:00",
+      "07:20",
+      "10:10",
+      "12:00",
+      "15:30",
+      "18:00"
+    ],
+    "via": [
+      "Sonewadi Akkadase"
+    ]
+  },
+  {
+    "depot": "Varpada (Amlathe)",
+    "departureTimes": [
+      "06:00",
+      "07:20",
+      "10:10",
+      "12:00",
+      "15:00",
+      "17:15"
+    ],
+    "via": [
+      "Varpada Amlathe"
+    ]
+  },
+  {
+    "depot": "Varsus",
+    "departureTimes": [
+      "11:00",
+      "17:50"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shirpur",
+    "departureTimes": [
+      "07:15",
+      "08:00",
+      "09:30",
+      "15:15"
+    ],
+    "via": [
+      "Sukhvad",
+      "Gidhade",
+      "Savalde"
+    ]
+  },
+  {
+    "depot": "Tavkheda",
+    "departureTimes": [
+      "06:00",
+      "10:30",
+      "11:40",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ranjane",
+    "departureTimes": [
+      "06:00",
+      "07:45",
+      "10:30",
+      "12:00",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Virdel",
+    "departureTimes": [
+      "06:00",
+      "10:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Khalane",
+    "departureTimes": [
+      "05:30",
+      "12:00",
+      "15:15",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dondaicha via Jogshelu",
+    "departureTimes": [
+      "07:20",
+      "12:15",
+      "17:00"
+    ],
+    "via": [
+      "Dondaicha",
+      "Jogshelu"
+    ]
+  },
+  {
+    "depot": "Shindkheda - Sonshelu - Dondaiche",
+    "departureTimes": [
+      "09:30",
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Jogshelu",
+    "departureTimes": [
+      "06:00",
+      "10:10",
+      "16:20"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Jalgaon",
+    "departureTimes": [
+      "06:30",
+      "07:30",
+      "09:00",
+      "09:30",
+      "11:30",
+      "14:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mudavad",
+    "departureTimes": [
+      "09:10",
+      "15:45",
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Amalner",
+    "departureTimes": [
+      "08:10",
+      "12:00",
+      "13:00",
+      "13:30",
+      "14:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vikvel",
+    "departureTimes": [
+      "08:30",
+      "12:00",
+      "13:10",
+      "18:40"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Railway Station",
+    "departureTimes": [
+      "05:00",
+      "21:00",
+      "22:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Salve (Hatnur)",
+    "departureTimes": [
+      "06:00",
+      "09:20",
+      "11:45",
+      "16:00"
+    ],
+    "via": [
+      "Salve Hatnur"
+    ]
+  },
+  {
+    "depot": "Lamkani",
+    "departureTimes": [
+      "07:10",
+      "08:45",
+      "12:30",
+      "14:15",
+      "16:00",
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Wadi",
+    "departureTimes": [
+      "09:20",
+      "16:00",
+      "18:40"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Darane / Songir",
+    "departureTimes": [
+      "10:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Parsamal",
+    "departureTimes": [
+      "07:00",
+      "11:00",
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Devi",
+    "departureTimes": [
+      "12:15",
+      "18:40"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pimpalner",
+    "departureTimes": [
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chimthane",
+    "departureTimes": [
+      "09:30",
+      "12:15",
+      "16:30",
+      "17:00",
+      "07:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sulwade via Nirgudi",
+    "departureTimes": [
+      "07:00",
+      "10:30",
+      "11:00",
+      "17:30"
+    ],
+    "via": [
+      "Sulwade",
+      "Nirgudi"
+    ]
+  },
+  {
+    "depot": "Vaypur",
+    "departureTimes": [
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Jakhane",
+    "departureTimes": [
+      "08:30",
+      "17:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kumrej",
+    "departureTimes": [
+      "11:00",
+      "17:20"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Songir (Gorane)",
+    "departureTimes": [
+      "05:30",
+      "10:10",
+      "15:30"
+    ],
+    "via": [
+      "Songir Gorane"
+    ]
+  },
+  {
+    "depot": "Tamthare / Boris",
+    "departureTimes": [
+      "15:30"
+    ],
+    "via": []
+  }
+]

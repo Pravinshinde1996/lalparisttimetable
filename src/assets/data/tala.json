@@ -1,0 +1,207 @@
+[
+  {
+    "depot": "Alibag",
+    "departureTimes": [
+      "07:45"
+    ],
+    "via": [
+      "Roha"
+    ]
+  },
+  {
+    "depot": "Bhanang",
+    "departureTimes": [
+      "06:30",
+      "11:10",
+      "14:00",
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bhanangkond Charai",
+    "departureTimes": [
+      "10:15",
+      "12:30",
+      "14:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Borivali",
+    "departureTimes": [
+      "15:30"
+    ],
+    "via": [
+      "Roha"
+    ]
+  },
+  {
+    "depot": "Falshet",
+    "departureTimes": [
+      "09:30",
+      "13:30",
+      "18:10"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ganeshnagar",
+    "departureTimes": [
+      "13:15",
+      "20:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Indapur",
+    "departureTimes": [
+      "07:45",
+      "08:45",
+      "09:15",
+      "10:00",
+      "11:00",
+      "11:15",
+      "12:30",
+      "13:45",
+      "15:00",
+      "15:45",
+      "16:30",
+      "17:15",
+      "18:00",
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kasekhol",
+    "departureTimes": [
+      "09:45",
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Malukwadi",
+    "departureTimes": [
+      "06:40",
+      "08:00",
+      "11:00",
+      "15:00",
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mangaon",
+    "departureTimes": [
+      "12:00",
+      "13:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mumbai",
+    "departureTimes": [
+      "06:15",
+      "14:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Murud",
+    "departureTimes": [
+      "08:15",
+      "12:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Panheli",
+    "departureTimes": [
+      "08:00",
+      "12:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Panvel",
+    "departureTimes": [
+      "10:30"
+    ],
+    "via": [
+      "Roha"
+    ]
+  },
+  {
+    "depot": "Rahatad",
+    "departureTimes": [
+      "07:45",
+      "08:45",
+      "09:30",
+      "11:00",
+      "12:15",
+      "13:00",
+      "15:00",
+      "15:45",
+      "16:45",
+      "18:00",
+      "20:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Rahatad via Hanuman Nagar",
+    "departureTimes": [
+      "07:00",
+      "09:10",
+      "12:15",
+      "16:30"
+    ],
+    "via": [
+      "Rahatad",
+      "Hanuman Nagar"
+    ]
+  },
+  {
+    "depot": "Roha",
+    "departureTimes": [
+      "08:15",
+      "11:00",
+      "13:30",
+      "17:30",
+      "19:15",
+      "20:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Rowala",
+    "departureTimes": [
+      "08:00",
+      "10:45",
+      "13:00",
+      "16:15",
+      "19:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sai",
+    "departureTimes": [
+      "07:30",
+      "09:15",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Talegaon",
+    "departureTimes": [
+      "12:15",
+      "13:30",
+      "17:30"
+    ],
+    "via": []
+  }
+]

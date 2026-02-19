@@ -1,0 +1,336 @@
+[
+  {
+    "depot": "Ahmednagar (Tarakpur)",
+    "departureTimes": [
+      "05:15",
+      "14:10",
+      "15:30",
+      "18:00",
+      "20:30",
+      "22:00"
+    ],
+    "via": [
+      "Ahmednagar Tarakpur",
+      "Kalyan",
+      "Murbad",
+      "Otur",
+      "Alephata",
+      "Belha"
+    ]
+  },
+  {
+    "depot": "Akola",
+    "departureTimes": [
+      "04:30"
+    ],
+    "via": [
+      "Kalyan",
+      "Murbad",
+      "Otur",
+      "Alephata",
+      "Belha",
+      "Ahmednagar",
+      "Newasa Fata",
+      "Chatrapati Sambhaji NagarAurangabad",
+      "Badnapur",
+      "Jalna",
+      "Deulgaon Raja",
+      "Chikhali",
+      "Khamgaon"
+    ]
+  },
+  {
+    "depot": "Bhagwangad",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Buldhana",
+    "departureTimes": [
+      "05:45"
+    ],
+    "via": [
+      "Kalyan",
+      "Murbad",
+      "Otur",
+      "Alephata",
+      "Belha",
+      "Ahmednagar",
+      "Newasa Fata",
+      "Chatrapati Sambhaji NagarAurangabad",
+      "Sillod",
+      "Bhokardan"
+    ]
+  },
+  {
+    "depot": "Dhebewadi",
+    "departureTimes": [
+      "05:45",
+      "19:00"
+    ],
+    "via": [
+      "Kalyan",
+      "Dombivali",
+      "Panvel",
+      "Swargate Pune",
+      "Satara",
+      "Karad"
+    ]
+  },
+  {
+    "depot": "Gondavale",
+    "departureTimes": [
+      "08:00"
+    ],
+    "via": [
+      "Kalyan",
+      "Dombivali",
+      "Panvel",
+      "Swargate Pune",
+      "Hadapsar",
+      "Saswad",
+      "Jejuri",
+      "Nira",
+      "Lonand",
+      "Phaltan",
+      "Dahivadi"
+    ]
+  },
+  {
+    "depot": "Guhagar",
+    "departureTimes": [
+      "07:00",
+      "09:00",
+      "09:30",
+      "21:30"
+    ],
+    "via": [
+      "Kalyan",
+      "Dombivali",
+      "Panvel",
+      "Ramwadi",
+      "Indapur",
+      "Mangaon",
+      "Mahad",
+      "Poladpur",
+      "Khed",
+      "Chiplun"
+    ]
+  },
+  {
+    "depot": "Islampur",
+    "departureTimes": [
+      "09:00",
+      "21:00"
+    ],
+    "via": [
+      "Kalyan",
+      "Dombivali",
+      "Panvel",
+      "Chandani Chowk",
+      "Katraj Bypass",
+      "Satara",
+      "Karad",
+      "Pethnaka"
+    ]
+  },
+  {
+    "depot": "Jawhar",
+    "departureTimes": [
+      "05:15"
+    ],
+    "via": [
+      "Kalyan",
+      "Bhiwandi",
+      "Ambadi",
+      "Kudus",
+      "Wada"
+    ]
+  },
+  {
+    "depot": "Karad",
+    "departureTimes": [
+      "10:30"
+    ],
+    "via": [
+      "Kalyan",
+      "Dombivali",
+      "Panvel",
+      "Chandani Chowk",
+      "Katraj Bypass",
+      "Satara"
+    ]
+  },
+  {
+    "depot": "Kolhapur",
+    "departureTimes": [
+      "20:00"
+    ],
+    "via": [
+      "Kalyan",
+      "Dombivali",
+      "Panvel",
+      "Chandani Chowk",
+      "Katraj Bypass",
+      "Satara",
+      "Karad",
+      "Pethnaka"
+    ]
+  },
+  {
+    "depot": "Malkapur",
+    "departureTimes": [
+      "05:00"
+    ],
+    "via": [
+      "Kalyan",
+      "Bhiwandi",
+      "Nashik CBS",
+      "Malegaon",
+      "Chalisgaon",
+      "Pachora",
+      "Pahur",
+      "Jamner",
+      "Bodwad"
+    ]
+  },
+  {
+    "depot": "Patgaon",
+    "departureTimes": [
+      "05:15"
+    ],
+    "via": [
+      "Kalyan",
+      "Dombivali",
+      "Panvel",
+      "Chandani Chowk Pune",
+      "Katraj Bypass",
+      "Satara",
+      "Karad",
+      "Pethnaka",
+      "Kolhapur",
+      "Sambhaji Nagar",
+      "Mudal Titta",
+      "Gargoti"
+    ]
+  },
+  {
+    "depot": "Ratnagiri",
+    "departureTimes": [
+      "21:00"
+    ],
+    "via": [
+      "Kalyan",
+      "Dombivali",
+      "Panvel",
+      "Ramwadi",
+      "Indapur",
+      "Mangaon",
+      "Mahad",
+      "Poladpur",
+      "Khed",
+      "Chiplun",
+      "Sangameshwar",
+      "Hatkhamba"
+    ]
+  },
+  {
+    "depot": "Raver",
+    "departureTimes": [
+      "06:15"
+    ],
+    "via": [
+      "Kalyan",
+      "Bhiwandi",
+      "Shahapur",
+      "Nashik",
+      "Malegaon",
+      "Dhule",
+      "Amalner",
+      "Patonda",
+      "Chopda",
+      "Dhanora",
+      "Yawal",
+      "Faizpur",
+      "Savada"
+    ]
+  },
+  {
+    "depot": "Raver (Sleeper Seater)",
+    "departureTimes": [
+      "18:00"
+    ],
+    "via": [
+      "Raver Sleeper Seater",
+      "Kalyan",
+      "Bhiwandi",
+      "Shahapur",
+      "Nashik",
+      "Malegaon",
+      "Dhule",
+      "Parola",
+      "Erandol",
+      "Jalgaon",
+      "Bhusawal",
+      "Faizpur"
+    ]
+  },
+  {
+    "depot": "Shivtharghal",
+    "departureTimes": [
+      "11:30"
+    ],
+    "via": [
+      "Kalyan",
+      "Panvel",
+      "Ramwadi",
+      "Indapur",
+      "Mangaon",
+      "Mahad"
+    ]
+  },
+  {
+    "depot": "Vita",
+    "departureTimes": [
+      "10:00"
+    ],
+    "via": [
+      "Kalyan",
+      "Dombivali",
+      "Panvel",
+      "Chandani Chowk Pune",
+      "Katraj Bypass",
+      "Satara",
+      "Karad",
+      "Kadegaon",
+      "Kadepur"
+    ]
+  },
+  {
+    "depot": "Washim",
+    "departureTimes": [
+      "05:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Yawal",
+    "departureTimes": [
+      "06:10"
+    ],
+    "via": [
+      "Kalyan",
+      "Bhiwandi",
+      "Shahapur",
+      "Nashik",
+      "Malegaon",
+      "Dhule",
+      "Amalner",
+      "Patonda",
+      "Chopda",
+      "Dhanora"
+    ]
+  }
+]

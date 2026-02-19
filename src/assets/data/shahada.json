@@ -1,0 +1,231 @@
+[
+  {
+    "depot": "Nashik",
+    "departureTimes": [
+      "05:00",
+      "07:30",
+      "08:45",
+      "10:00",
+      "11:30",
+      "14:45",
+      "18:00"
+    ],
+    "via": [
+      "Sarang Kheda",
+      "Dondaicha",
+      "Dhule",
+      "Malegaon"
+    ]
+  },
+  {
+    "depot": "Jawhar",
+    "departureTimes": [
+      "06:00"
+    ],
+    "via": [
+      "Prakasha",
+      "Patonda",
+      "Nandurbar",
+      "Sakri",
+      "Taharabad",
+      "Satana",
+      "Nashik",
+      "Trimbakeshwar"
+    ]
+  },
+  {
+    "depot": "Dhule",
+    "departureTimes": [
+      "05:30",
+      "06:00",
+      "06:15",
+      "09:00",
+      "09:30"
+    ],
+    "via": [
+      "Sarang Kheda",
+      "Dondaicha"
+    ]
+  },
+  {
+    "depot": "Mumbai",
+    "departureTimes": [
+      "07:00",
+      "19:00"
+    ],
+    "via": [
+      "Sarang Kheda",
+      "Dondaicha",
+      "Dhule",
+      "Malegaon",
+      "Nashik",
+      "Igatpuri",
+      "Shahapur",
+      "Bhiwandi",
+      "Kalyan Bypass",
+      "Thane CBS",
+      "Kurla Nehru Nagar",
+      "Sion",
+      "Dadar"
+    ]
+  },
+  {
+    "depot": "Pune via Ahmednagar",
+    "departureTimes": [
+      "08:00",
+      "08:20",
+      "10:30",
+      "20:00",
+      "21:30"
+    ],
+    "via": [
+      "Pune",
+      "Ahmednagar",
+      "Dondaicha",
+      "Dhule",
+      "Manmad",
+      "Yeola",
+      "Kopargaon",
+      "Shirdi",
+      "Rahata",
+      "Shirur",
+      "Ranjangaon",
+      "Wakdewadi"
+    ]
+  },
+  {
+    "depot": "Pune via Sangamner",
+    "departureTimes": [
+      "06:45",
+      "07:30"
+    ],
+    "via": [
+      "Pune",
+      "Sangamner",
+      "Dondaicha",
+      "Dhule",
+      "Manmad",
+      "Yeola",
+      "Kopargaon",
+      "Shirdi",
+      "Rahata",
+      "Loni",
+      "Alephata",
+      "Manchar",
+      "Rajgurunagar",
+      "Chakan",
+      "Bhosari",
+      "Nashik Fata"
+    ]
+  },
+  {
+    "depot": "Chatrapati Sambhaji Nagar (Aurangabad)",
+    "departureTimes": [
+      "08:30",
+      "15:00",
+      "17:30"
+    ],
+    "via": [
+      "Chatrapati Sambhaji Nagar Aurangabad",
+      "Sarang Kheda",
+      "Dondaicha",
+      "Dhule",
+      "Chalisgaon",
+      "Kannad",
+      "Hatnur",
+      "Ghrushneshwar",
+      "Daulatabad Fort"
+    ]
+  },
+  {
+    "depot": "Sinnar via Nashik",
+    "departureTimes": [
+      "12:15"
+    ],
+    "via": [
+      "Sinnar",
+      "Nashik",
+      "Sarang Kheda",
+      "Dondaicha",
+      "Dhule",
+      "Malegaon",
+      "Nashik CBS",
+      "Nashik Road"
+    ]
+  },
+  {
+    "depot": "Amalner",
+    "departureTimes": [
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Surat",
+    "departureTimes": [
+      "06:30",
+      "10:00",
+      "12:30"
+    ],
+    "via": [
+      "Prakasha",
+      "Taloda",
+      "Akkalkuwa",
+      "Khapar"
+    ]
+  },
+  {
+    "depot": "Vapi",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": [
+      "Prakasha",
+      "Nandurbar",
+      "Navapur",
+      "Songad",
+      "Vyara",
+      "Bardoli",
+      "Navsari",
+      "Valsad"
+    ]
+  },
+  {
+    "depot": "Nandurbar",
+    "departureTimes": [
+      "07:30",
+      "08:00",
+      "09:15",
+      "09:30",
+      "10:15",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "13:30",
+      "14:00",
+      "14:40",
+      "15:00",
+      "16:00",
+      "16:30",
+      "17:00",
+      "18:15",
+      "18:45",
+      "20:00"
+    ],
+    "via": [
+      "Prakasha",
+      "Patonda"
+    ]
+  },
+  {
+    "depot": "Navapur",
+    "departureTimes": [
+      "13:00"
+    ],
+    "via": [
+      "Prakasha",
+      "Nandurbar"
+    ]
+  }
+]

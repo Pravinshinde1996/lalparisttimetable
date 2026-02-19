@@ -1,0 +1,241 @@
+[
+  {
+    "depot": "Bagmandla",
+    "departureTimes": [
+      "04:45",
+      "09:15",
+      "09:45",
+      "12:15",
+      "16:45",
+      "19:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bhiwandi",
+    "departureTimes": [
+      "14:30"
+    ],
+    "via": [
+      "Panvel",
+      "Kalyan"
+    ]
+  },
+  {
+    "depot": "Borivali",
+    "departureTimes": [
+      "08:30",
+      "10:00",
+      "11:00"
+    ],
+    "via": [
+      "Panvel",
+      "Vashi",
+      "Kurla Nehru Nagar"
+    ]
+  },
+  {
+    "depot": "Borli",
+    "departureTimes": [
+      "15:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dighi",
+    "departureTimes": [
+      "05:45",
+      "06:45",
+      "08:00",
+      "09:30",
+      "10:30",
+      "12:30",
+      "14:00",
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Hareshwar",
+    "departureTimes": [
+      "07:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Latur via Pune",
+    "departureTimes": [
+      "05:00"
+    ],
+    "via": [
+      "Latur",
+      "Pune"
+    ]
+  },
+  {
+    "depot": "Mahad",
+    "departureTimes": [
+      "05:30",
+      "11:15",
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mangaon",
+    "departureTimes": [
+      "07:15",
+      "10:30",
+      "12:30",
+      "13:00",
+      "14:00",
+      "18:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mhasala",
+    "departureTimes": [
+      "06:00",
+      "08:00",
+      "12:00",
+      "13:00",
+      "14:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Miraj",
+    "departureTimes": [
+      "05:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mumbai",
+    "departureTimes": [
+      "03:45",
+      "05:00",
+      "06:00",
+      "08:00",
+      "10:00",
+      "15:00",
+      "16:00"
+    ],
+    "via": [
+      "Panvel",
+      "Vashi",
+      "Kurla Nehru Nagar"
+    ]
+  },
+  {
+    "depot": "Nalasopara",
+    "departureTimes": [
+      "07:00",
+      "13:00",
+      "21:00"
+    ],
+    "via": [
+      "Panvel",
+      "Thane"
+    ]
+  },
+  {
+    "depot": "Nashik via Kalyan",
+    "departureTimes": [
+      "05:45"
+    ],
+    "via": [
+      "Nashik",
+      "Kalyan",
+      "Bhiwandi",
+      "Shahapur"
+    ]
+  },
+  {
+    "depot": "Pune",
+    "departureTimes": [
+      "14:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Satara",
+    "departureTimes": [
+      "05:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Thane",
+    "departureTimes": [
+      "08:05"
+    ],
+    "via": [
+      "Panvel",
+      "Vashi"
+    ]
+  },
+  {
+    "depot": "Aadi",
+    "departureTimes": [
+      "18:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Diveagar",
+    "departureTimes": [
+      "06:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Karvine Gadabwadi",
+    "departureTimes": [
+      "08:00",
+      "13:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Meghare",
+    "departureTimes": [
+      "06:00",
+      "09:35",
+      "11:45",
+      "13:00",
+      "17:05"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nanvel",
+    "departureTimes": [
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Niranjanwadi",
+    "departureTimes": [
+      "09:45",
+      "16:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sangvad",
+    "departureTimes": [
+      "04:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Tala",
+    "departureTimes": [
+      "08:15"
+    ],
+    "via": []
+  }
+]

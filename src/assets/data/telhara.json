@@ -1,0 +1,199 @@
+[
+  {
+    "depot": "Akola",
+    "departureTimes": [
+      "06:30",
+      "07:00",
+      "07:30",
+      "08:00",
+      "08:30",
+      "09:00",
+      "09:30",
+      "10:00",
+      "10:30",
+      "11:00",
+      "11:30",
+      "12:00",
+      "12:30",
+      "13:00",
+      "13:30",
+      "14:00",
+      "14:30",
+      "15:00",
+      "15:30",
+      "16:00",
+      "16:30",
+      "17:00",
+      "17:30",
+      "18:00",
+      "18:30",
+      "19:00"
+    ],
+    "via": [
+      "Aadsul",
+      "Nimba"
+    ]
+  },
+  {
+    "depot": "Akot",
+    "departureTimes": [
+      "06:30",
+      "07:15",
+      "07:45",
+      "08:00",
+      "08:45",
+      "09:30",
+      "10:30",
+      "11:00",
+      "11:30",
+      "11:45",
+      "12:30",
+      "13:15",
+      "14:00",
+      "14:45",
+      "15:30",
+      "16:15",
+      "17:00",
+      "17:30",
+      "18:30",
+      "19:15",
+      "20:00"
+    ],
+    "via": [
+      "Belkhed",
+      "Hivarkhed"
+    ]
+  },
+  {
+    "depot": "Babhulgaon (Bageshwar)",
+    "departureTimes": [
+      "06:30",
+      "11:00",
+      "14:00",
+      "17:30",
+      "20:45"
+    ],
+    "via": [
+      "Babhulgaon Bageshwar",
+      "Wadi",
+      "Ukali"
+    ]
+  },
+  {
+    "depot": "Chandur Railway",
+    "departureTimes": [
+      "07:35"
+    ],
+    "via": [
+      "Akot",
+      "Amravati"
+    ]
+  },
+  {
+    "depot": "Danapur",
+    "departureTimes": [
+      "08:00",
+      "12:30",
+      "13:00",
+      "17:30"
+    ],
+    "via": [
+      "Malegaon"
+    ]
+  },
+  {
+    "depot": "Jalgaon (Ja)",
+    "departureTimes": [],
+    "via": [
+      "Jalgaon Ja",
+      "Malegaon",
+      "Varvat"
+    ]
+  },
+  {
+    "depot": "Kateldham",
+    "departureTimes": [
+      "20:30"
+    ],
+    "via": [
+      "Malegaon",
+      "Danapur"
+    ]
+  },
+  {
+    "depot": "Khamgaon",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": [
+      "Aadsul",
+      "Nimba"
+    ]
+  },
+  {
+    "depot": "Nagpur",
+    "departureTimes": [
+      "06:30",
+      "07:30"
+    ],
+    "via": [
+      "Akot",
+      "Yavatmal"
+    ]
+  },
+  {
+    "depot": "Nibhora",
+    "departureTimes": [
+      "09:30",
+      "16:00"
+    ],
+    "via": [
+      "Wadi",
+      "Ukali"
+    ]
+  },
+  {
+    "depot": "Shegaon",
+    "departureTimes": [
+      "07:00",
+      "07:30",
+      "10:00",
+      "10:30",
+      "11:45",
+      "13:00",
+      "13:30",
+      "14:00",
+      "14:15",
+      "14:30",
+      "15:30",
+      "16:30",
+      "17:30",
+      "19:00"
+    ],
+    "via": [
+      "Aadsul",
+      "Nimba"
+    ]
+  },
+  {
+    "depot": "Shirdi",
+    "departureTimes": [
+      "09:15"
+    ],
+    "via": [
+      "Shegaon",
+      "Chatrapati Sambhaji Nagar"
+    ]
+  },
+  {
+    "depot": "Yavatmal",
+    "departureTimes": [
+      "06:45",
+      "07:45",
+      "14:00"
+    ],
+    "via": [
+      "Akot"
+    ]
+  }
+]

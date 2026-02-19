@@ -1,0 +1,290 @@
+[
+  {
+    "depot": "Akkalkuwa",
+    "departureTimes": [
+      "07:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Anturli",
+    "departureTimes": [
+      "06:50",
+      "10:30",
+      "13:00",
+      "15:20",
+      "15:40"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Anturli via Icchapur",
+    "departureTimes": [
+      "06:00",
+      "08:20",
+      "13:00",
+      "15:20"
+    ],
+    "via": [
+      "Anturli",
+      "Icchapur"
+    ]
+  },
+  {
+    "depot": "Baramati",
+    "departureTimes": [
+      "06:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bhusawal",
+    "departureTimes": [
+      "07:10",
+      "07:50",
+      "18:40",
+      "19:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Burhanpur",
+    "departureTimes": [
+      "06:00",
+      "07:00",
+      "08:20",
+      "08:50",
+      "09:20",
+      "09:50",
+      "10:25",
+      "11:00",
+      "11:20",
+      "11:30",
+      "11:40",
+      "12:00",
+      "12:20",
+      "13:00",
+      "14:00",
+      "14:30",
+      "15:40",
+      "15:50",
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chhatrapati Sambhaji Nagar (Aurangabad)",
+    "departureTimes": [
+      "05:00",
+      "13:30",
+      "14:00"
+    ],
+    "via": [
+      "Chhatrapati Sambhaji Nagar Aurangabad"
+    ]
+  },
+  {
+    "depot": "Chopda",
+    "departureTimes": [
+      "06:50",
+      "10:30",
+      "13:00",
+      "15:20",
+      "15:40"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dharni",
+    "departureTimes": [
+      "15:40"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Dhule",
+    "departureTimes": [
+      "12:30",
+      "13:30",
+      "14:20",
+      "16:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Einpur via Faizpur",
+    "departureTimes": [
+      "06:00"
+    ],
+    "via": [
+      "Einpur",
+      "Faizpur"
+    ]
+  },
+  {
+    "depot": "Jalgaon",
+    "departureTimes": [
+      "11:00",
+      "11:30",
+      "11:50",
+      "13:30",
+      "14:50",
+      "16:40",
+      "19:00",
+      "20:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Jamner",
+    "departureTimes": [
+      "09:20"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kalyan",
+    "departureTimes": [
+      "06:30",
+      "08:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kandwel",
+    "departureTimes": [
+      "07:45",
+      "10:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nandupimpri via Muktainagar",
+    "departureTimes": [
+      "07:30",
+      "08:10",
+      "09:20",
+      "10:55",
+      "11:10",
+      "11:55",
+      "14:20",
+      "15:50",
+      "18:30"
+    ],
+    "via": [
+      "Nandupimpri",
+      "Muktainagar"
+    ]
+  },
+  {
+    "depot": "Nashik",
+    "departureTimes": [
+      "09:00",
+      "13:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pune",
+    "departureTimes": [
+      "06:30",
+      "07:45",
+      "09:30",
+      "18:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Punkheda Nimbhorasim",
+    "departureTimes": [
+      "06:00",
+      "08:10",
+      "10:30",
+      "12:20",
+      "14:00",
+      "15:30",
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Shahapur via Nashik",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": [
+      "Shahapur",
+      "Nashik"
+    ]
+  },
+  {
+    "depot": "Shirdi",
+    "departureTimes": [
+      "11:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Tandalwadi",
+    "departureTimes": [
+      "05:15",
+      "06:10",
+      "07:00",
+      "08:40",
+      "09:10"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Tandalwadi via Muktainagar",
+    "departureTimes": [
+      "13:00",
+      "16:20",
+      "19:00"
+    ],
+    "via": [
+      "Tandalwadi",
+      "Muktainagar"
+    ]
+  },
+  {
+    "depot": "Thane via Nashik",
+    "departureTimes": [
+      "10:00"
+    ],
+    "via": [
+      "Thane",
+      "Nashik"
+    ]
+  },
+  {
+    "depot": "Tuljapur",
+    "departureTimes": [
+      "07:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Udhana",
+    "departureTimes": [
+      "08:10",
+      "09:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vitthalwadi - Kalyan",
+    "departureTimes": [
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Yawal",
+    "departureTimes": [
+      "09:15",
+      "17:50"
+    ],
+    "via": []
+  }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "depot": "Mumbai Central",
+    "departureTimes": [
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ajivali",
+    "departureTimes": [
+      "09:15",
+      "15:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Amba",
+    "departureTimes": [
+      "14:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ansure",
+    "departureTimes": [
+      "10:30",
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Bhalavali",
+    "departureTimes": [
+      "08:20",
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Borivali",
+    "departureTimes": [
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Burambewadi",
+    "departureTimes": [
+      "06:00",
+      "08:15",
+      "10:30",
+      "13:00",
+      "15:45",
+      "18:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chikhalgaon",
+    "departureTimes": [
+      "08:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chouke Mahalunge Taral",
+    "departureTimes": [
+      "08:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chunakolvan",
+    "departureTimes": [
+      "12:45",
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Devache Gothane",
+    "departureTimes": [
+      "08:30",
+      "12:30",
+      "17:35"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Fufere",
+    "departureTimes": [
+      "06:00",
+      "13:30",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Gavkhadi",
+    "departureTimes": [
+      "08:40",
+      "11:30",
+      "15:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Gavpadave",
+    "departureTimes": [
+      "08:30",
+      "15:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Gitewadi",
+    "departureTimes": [
+      "06:00",
+      "12:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Hasoltali",
+    "departureTimes": [
+      "13:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Hatde",
+    "departureTimes": [
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Jaitapur",
+    "departureTimes": [
+      "06:00",
+      "08:30",
+      "11:30",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kajirda",
+    "departureTimes": [
+      "16:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kelwade",
+    "departureTimes": [
+      "06:30",
+      "09:15",
+      "13:30",
+      "16:25"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kotapur",
+    "departureTimes": [
+      "08:30",
+      "15:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kumbhvade",
+    "departureTimes": [
+      "12:30",
+      "16:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mandavkarwadi",
+    "departureTimes": [
+      "07:30",
+      "16:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mirgulewadi",
+    "departureTimes": [
+      "08:30",
+      "13:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nanar",
+    "departureTimes": [
+      "16:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Nate",
+    "departureTimes": [
+      "06:30",
+      "15:00",
+      "09:00",
+      "13:00",
+      "17:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ozar",
+    "departureTimes": [
+      "06:30",
+      "12:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pamhane Pachal",
+    "departureTimes": [
+      "08:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pune",
+    "departureTimes": [
+      "06:30",
+      "08:45",
+      "16:30",
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Rantale",
+    "departureTimes": [
+      "14:10"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ratnagiri",
+    "departureTimes": [
+      "06:00",
+      "06:45",
+      "08:30",
+      "09:30",
+      "10:00",
+      "11:00",
+      "11:30",
+      "13:00",
+      "14:00",
+      "14:30",
+      "15:30",
+      "17:00",
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sagave Shirase",
+    "departureTimes": [
+      "12:30",
+      "16:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sangli",
+    "departureTimes": [
+      "12:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sodyewadi",
+    "departureTimes": [
+      "12:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Akkalkot via Solapur",
+    "departureTimes": [
+      "07:45"
+    ],
+    "via": [
+      "Akkalkot",
+      "Solapur"
+    ]
+  },
+  {
+    "depot": "Talgaon",
+    "departureTimes": [
+      "06:00",
+      "11:00",
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Tamhane",
+    "departureTimes": [
+      "12:30",
+      "17:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Taral",
+    "departureTimes": [
+      "05:30",
+      "09:00",
+      "12:30",
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Tuljapur",
+    "departureTimes": [
+      "08:00",
+      "12:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Tulsunde",
+    "departureTimes": [
+      "12:30",
+      "16:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vaddahasol Pendkhale",
+    "departureTimes": [
+      "08:00",
+      "16:45",
+      "10:30",
+      "13:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Valye Kharepatan",
+    "departureTimes": [
+      "07:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Yerdav",
+    "departureTimes": [
+      "11:15",
+      "18:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Zarye",
+    "departureTimes": [
+      "15:00"
+    ],
+    "via": []
+  }
+]

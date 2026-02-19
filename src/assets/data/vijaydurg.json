@@ -1,0 +1,132 @@
+[
+  {
+    "depot": "Chinchwad Pune",
+    "departureTimes": [
+      "05:00",
+      "06:00",
+      "15:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Chiplun",
+    "departureTimes": [
+      "06:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Devgad",
+    "departureTimes": [
+      "05:45",
+      "08:00",
+      "09:30",
+      "10:00",
+      "11:15",
+      "12:05",
+      "14:00",
+      "14:30",
+      "16:35"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ichalkaranji",
+    "departureTimes": [
+      "12:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kankavali",
+    "departureTimes": [
+      "05:45",
+      "06:55",
+      "08:20"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Kharepatan",
+    "departureTimes": [
+      "05:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Malvan",
+    "departureTimes": [
+      "06:00",
+      "13:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Mumbai Central",
+    "departureTimes": [
+      "15:00",
+      "15:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pachal",
+    "departureTimes": [
+      "12:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Pandharpur",
+    "departureTimes": [
+      "08:30"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Panjim",
+    "departureTimes": [
+      "06:00"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Ratnagiri",
+    "departureTimes": [
+      "05:45",
+      "09:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Sawantwadi",
+    "departureTimes": [
+      "06:40",
+      "07:45"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Tarala",
+    "departureTimes": [
+      "12:15"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vaibhavwadi",
+    "departureTimes": [
+      "06:15",
+      "13:15",
+      "15:40"
+    ],
+    "via": []
+  },
+  {
+    "depot": "Vengurle",
+    "departureTimes": [
+      "06:15"
+    ],
+    "via": []
+  }
+]
