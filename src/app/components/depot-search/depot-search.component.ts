@@ -25,8 +25,6 @@ export class DepotSearchComponent {
   allDepots: string[] = [
     'Sangli (सांगली)',
     'Kolhapur (कोल्हापूर)',
-    'Satara (सातारा)',
-    'Pune (पुणे)',
     'Jath (जत)',
     'Ajara (अजारा)',
     'Ahmedpur (अहमदपुर)',
