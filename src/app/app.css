@@ -1,3 +1,16 @@
-body{
-    margin: 0px;
+html, body, app-root {
+    height: 100%;
+    margin: 0;
+}
+
+.app-shell {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1 0 auto; /* take available space so footer is pushed to bottom */
+    display: block;
+    padding: 16px;
 }

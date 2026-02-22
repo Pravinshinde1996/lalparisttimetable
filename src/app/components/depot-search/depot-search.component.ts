@@ -1,18 +1,20 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { BusService } from '../../services/bus.service';
 import { Depot } from '../../models/depot.model';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
+import { RouterModule } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 
 @Component({
   selector: 'app-depot-search',
   templateUrl: './depot-search.component.html',
   standalone: true,
-  imports: [CommonModule, FormsModule],
+  imports: [CommonModule, FormsModule, RouterModule],
   providers: [BusService],
   styleUrls: ['./depot-search.component.css'],
 })
-export class DepotSearchComponent {
+export class DepotSearchComponent implements OnInit {
   depotName: string = '';
   depots: Depot[] = [];
   notFound: boolean = false;
@@ -284,12 +286,38 @@ export class DepotSearchComponent {
     'yeola (येवला)',
   ];
 
-  constructor(private busService: BusService) {}
+  constructor(
+    private busService: BusService,
+    private route: ActivatedRoute,
+    private router: Router,
+  ) {}
+
+  ngOnInit(): void {
+    // subscribe to route params so opening `/Jath` triggers a search
+    this.route.paramMap.subscribe((params) => {
+      const depotParam = params.get('depot');
+      if (depotParam) {
+        // Angular decodes URL segments; use the param directly
+        this.depotName = depotParam;
+        this.showSuggestions = false;
+        this.fetchCityData(depotParam);
+      }
+    });
+  }
 
   search() {
-    const city = this.depotName.trim().toLowerCase();
-    //test
+    // normalize display name by removing parenthetical translations
+    const depot = this.depotName.trim();
+    if (!depot) return;
 
+    const displayName = depot.replace(/\s*\(.*?\)\s*/g, '').trim();
+
+    // navigate to `/depot/:depot` so the page URL is explicit
+    this.router.navigate(['/depot', displayName]);
+  }
+
+  private fetchCityData(depotParam: string) {
+    const city = depotParam.trim().toLowerCase();
     if (!city) return;
 
     this.busService.getCityData(city).subscribe({
